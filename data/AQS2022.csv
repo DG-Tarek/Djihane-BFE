@@ -1,0 +1,862 @@
+﻿From,To,Agency,Discipline,OP/MT,Location,Equip. / Syst.,Delay Description,Duration,Hours,Date
+00:05,04:26,MECH,MECH,MT,Finishing Area,Tail Breaker,"Accumulated delays of cobble detection at the end of CB after discharging few bars / TB1A makes delayed cycle and caused overshoot in CB - 
+At the we noted that the TB1A pneumatic cylinder losed and caused over shoots ",4:21, 4.35 ,01/01/2022
+07:00,07:17,E&A,E&A,MT,Mill Area,Proportional Valve,Lubrication unit of Fast Finishing Block  2 not ok - The propretional valve not balancing,0:17, 0.28 ,03/01/2022
+07:30,07:54,E&A,E&A,MT,Mill Area,Proportional Valve,Lubrication unit of Fast Finishing Block  2 not ok - The propretional valve not balancing,0:24, 0.40 ,03/01/2022
+14:32,14:42,E&A,E&A,MT,Finishing Area,BC1 Fast Lances,CCL area full - BC1 fast lances drive fault,0:10, 0.17 ,03/01/2022
+15:24,15:33,E&A,E&A,MT,Finishing Area,BC1 Fast Lances,CCL area full - BC1 fast lances drive fault,0:09, 0.15 ,03/01/2022
+16:14,16:26,E&A,E&A,MT,Finishing Area,BC1 Fast Lances,CCL area full - BC1 fast lances drive fault,0:12, 0.20 ,03/01/2022
+,,E&A,E&A,MT,Finishing Area,Tying Machine,Accumulative delay for ccl area full - Bars stucked in tying machine and vartical transfer due to working without lances,0:16, 0.27 ,03/01/2022
+23:14,23:26,E&A,E&A,MT,Finishing Area,BC1 Fast Lances,CCL area full - BC1 fast lances drive fault,0:12, 0.20 ,03/01/2022
+,,E&A,E&A,MT,Finishing Area,Tying Machine,Accumulative delay for ccl area full - Bars stucked in tying machine and vartical transfer due to working without lances,0:06, 0.10 ,03/01/2022
+,,E&A,E&A,MT,Finishing Area,BC1 Fast Lances,CCL area full - Work without lances,0:06, 0.10 ,04/01/2022
+07:05,07:35,E&A,E&A,MT,Mill Area,Stand,Cobble from Stand 1 to S3 - Stand 2 drive tripped,0:30, 0.50 ,09/01/2022
+07:35,07:51,E&A,E&A,MT,Mill Area,Roughing Lubrication Unit ,"Mill not ready,roughing mill lub unit dropped - Roughing mill lubrication unit :min delivery oil pressure",0:16, 0.27 ,09/01/2022
+09:30,10:16,E&A,E&A,MT,Finishing Area,BC1 Fast Lances,CCL area full - BC 1 fast lances tripped,0:36, 0.60 ,09/01/2022
+10:30,10:34,E&A,E&A,MT,Finishing Area,BC Chain Transfer 04,CCL area full - BC chain transfer # 4 tripped,0:04, 0.07 ,09/01/2022
+12:54,13:00,E&A,E&A,MT,Mill Area,Roughing Lubrication Unit ,"Mill not ready,roughing mill lub unit dropped - Roughing mill lubrication unit :min delivery oil pressure",0:06, 0.10 ,09/01/2022
+,,E&A,E&A,MT,Mill Area,Roughing Lubrication Unit ,Accumulative delay roughing lubrication unit stop - Switch problem,0:23, 0.38 ,09/01/2022
+00:22,00:38,E&A,E&A,MT,Finishing Area,Tying Machine,TM1 Out of service and stopped each time after trying it - Twister not good / tow small pieces of wire found inside,0:16, 0.27 ,09/01/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,Accumulative delay for ccl area full - Tying machine 1 not working properly,0:20, 0.33 ,10/01/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,Accumulative delay for ccl area full - Bars came out after tying machine 1 due to the wall after tying machine 1 was damaged,0:10, 0.17 ,10/01/2022
+11:57,12:07,E&A,E&A,MT,Finishing Area,Tying Machine,CCL area full - TM 02 not working,0:10, 0.17 ,23/01/2022
+,,MECH,MECH,MT,Furnace Area,Kick,Accumulative delay - Kick not working proprly,0:20, 0.33 ,23/01/2022
+02:56,03:14,E&A,E&A,MT,,Twin Channel  ,One billet chop and one rejected - Drive of Twin Channel 1B tripped,0:18, 0.30 ,23/01/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,Accumulative delay ccl area full; bars stucked befor TM 01 - Walls problem,0:10, 0.17 ,24/01/2022
+15:35,15:42,E&A,E&A,MT,Mill Area,HMI,Billet auto discharging can't be done even auto mode is activated on HMI - Automation problem,0:07, 0.12 ,24/01/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,"Accumulated delays of TM3, stopped manytimes - Electrovalve of pichroll not working properly",0:09, 0.15 ,24/01/2022
+01:08,01:15,E&A,E&A,MT,Finishing Area,Tying Machine,Walls befor TMs lost position ,0:07, 0.12 ,25/01/2022
+05:00,05:07,E&A,E&A,MT,Finishing Area,Tying Machine,CCL area full -Tying Machine stop in down position,0:07, 0.12 ,26/01/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,Accumulative delay for ccl area full - Tying Machine  cut the feeding wire in twister,0:07, 0.12 ,26/01/2022
+19:45,20:00,E&A,E&A,MT,Mill Area,Fast Finishing Block ,One auto chopped - Fast Finishing Block  1 got trip,0:15, 0.25 ,26/01/2022
+20:00,20:12,E&A,E&A,MT,Mill Area,Fast Finishing Block ,Remove of previouse shift cobble - Fast Finishing Block  line1 tripped,0:12, 0.20 ,26/01/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,Cumulative delay tying machine 1 not working properly ,0:06, 0.10 ,27/01/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,Cumelative delay TM1 out of servise - TM 1 not working properly,0:07, 0.12 ,27/01/2022
+04:16,04:37,E&A,E&A,MT,Finishing Area,Cold Shear,"Stop rolling CCL full - Cold shear stopped , lubrication stop (oil temperatuer low)",0:21, 0.35 ,27/01/2022
+05:15,05:43,E&A,E&A,MT,Mill Area,Tail Breaker,One billet chopped and one rejected - Under shoot in the last bars of the billet in line 1,0:28, 0.47 ,28/01/2022
+06:15,07:03,E&A,E&A,MT,Mill Area,Twin Channel ,Twin Channel  2B - Drive fault,0:48, 0.80 ,28/01/2022
+07:50,08:05,E&A,E&A,MT,Mill Area,Proportional Valve,Fast Finishing Block  2 acumulator high level - Proportional valve not working properly,0:15, 0.25 ,28/01/2022
+09:45,10:08,E&A,E&A,MT,Mill Area,Tail Breaker,One billet chopped and one rejected - Under shoot in the last bars of the billet in line 1,0:23, 0.38 ,28/01/2022
+10:46,12:33,MECH,MECH,MT,Furnace Area,Gas Pipe,Fire in burner 6 zone 6 - Gas pipe damaged,1:57, 1.95 ,28/01/2022
+14:09,14:17,MECH,MECH,MT,Finishing Area,Tying Machine,CCL area full due to feeding wire stuct in twister of tying machine 1 - Tying machine 1 not cut feeding wire preperly ,0:08, 0.13 ,28/01/2022
+18:29,18:39,MECH,MECH,MT,Mill Area,Looper,Stop rolling due looper 11 not stable - Roller bolt of looper 11 loosen ,0:10, 0.17 ,28/01/2022
+20:33,20:52,E&A,E&A,MT,Mill Area,Fast Finishing Block ,1.5 billet chopped - Fast Finishing Block  Line 1 tripped,0:19, 0.32 ,28/01/2022
+,,E&A,E&A,MT,Finishing Area,Vertical Transfert,CCL full - Vertical RT walls not positioned,0:10, 0.17 ,28/01/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,Accumilative dely Ccl full ;TM1 not working properly - QT of wire problem,0:32, 0.53 ,28/01/2022
+03:59,04:05,E&A,E&A,MT,Mill Area,Fast Finishing Block ,Fast Finishing Block  L2 stopped - Accumilator oil high level,0:06, 0.10 ,28/01/2022
+05:14,05:20,E&A,E&A,MT,Mill Area,Fast Finishing Block ,Fast Finishing Block 1 tripped one billet rejected - Not clear,0:06, 0.10 ,29/01/2022
+06:13,06:25,E&A,E&A,MT,Mill Area,Proportional valve,Fast Finishing Block  2 oil level high rolling can't be started - Proportional valve not working properly,0:12, 0.20 ,29/01/2022
+06:38,06:51,E&A,E&A,MT,Mill Area,Proportional valve,Fast Finishing Block  2 oil level high rolling BGV stopped - Proportional valve not working properly,0:13, 0.22 ,29/01/2022
+08:07,08:15,E&A,E&A,MT,Mill Area,Proportional valve,Fast Finishing Block  2 oil level high rolling BGV stopped - Proportional valve not working properly,0:08, 0.13 ,29/01/2022
+05:00,12:20,MECH,MECH,MT,Finishing Area,Tying Machine,Accumulated delays of TM1 and TM2 stoppage many times - Not clear,0:28, 0.47 ,29/01/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,Accumulated delays of TM1 and TM2 stoppage many times - Not clear ,0:20, 0.33 ,29/01/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,Accumilative dely CCL full ;TM3 TM2 not working properly ,0:35, 0.58 ,30/01/2022
+21:23,21:33,MECH,MECH,MT,Finishing Area,Tying Machine,CCL area full due to tying machine 2 stopped - No clear reson,0:10, 0.17 ,30/01/2022
+03:27,03:38,E&A,E&A,MT,Finishing Area,Cold Shear,CCL area full due to cold shear not ready - Cold shear switch of due to lubrication unit cold shear grease not automatic,0:11, 0.18 ,30/01/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,"Accumulative delay ;tying machine 1,2 stopped many times - No clear reason",0:10, 0.17 ,30/01/2022
+06:06,06:16,MECH,MECH,MT,Mill Area,Fast Finishing Block ,Fast Finishing Block  2 lubrication unit problem - Accumulator oil high level,0:10, 0.17 ,31/01/2022
+06:43,07:43,E&A,E&A,MT,Furnace Area,Crane 120,Gab inside furnace - Crane problem in billet yard,1:00, 1.00 ,31/01/2022
+09:22,09:57,E&A,E&A,MT,Furnace Area,Furnace,furnace shutdown - Zone 6 temperature below 750,0:35, 0.58 ,31/01/2022
+13:29,14:27,MECH,MECH,MT,Finishing Area,Tying Machine,"TM1 and 2 don't work properly, sometimes make lose tie and sometimes didn't tie and stope in down position - Not clear till now",0:10, 0.17 ,31/01/2022
+,,E&A,E&A,MT,Finishing Area,1 ST Chain,Accumulative delay for ccl area full - PH bar countr 1 ST chain not sensing,0:05, 0.08 ,31/01/2022
+,,E&A,E&A,MT,Finishing Area,Tying Machine,Accumulative delay CCL area full - TM 1 and 2 not working properly,0:23, 0.38 ,01/02/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,Accumulated delays of TM 1 and 2 stopped many times - Not clear ,0:05, 0.08 ,01/02/2022
+18:25,20:00,E&A,E&A,MT,Mill Area,TWS ,"TWS in Rm3,2,1 and stopped and comunucation with server lost, labls can't be printed - Not clear",1:35, 1.58 ,01/02/2022
+20:00,21:09,E&A,E&A,MT,Mill Area,TWS,"TWS in Rm3,2,1 and stopped and communication with server lost, labls can't be printed - Not clear reason",1:09, 1.15 ,01/02/2022
+05:53,06:02,MECH,MECH,MT,Finishing Area,Tying Machine,Ccl area full - Oil leakage in tying Machine 1,0:09, 0.15 ,02/02/2022
+20:35,20:44,E&A,E&A,MT,Furnace Area,Furnace,One billet deep charged indise furnace and suck on charging rollers inside fuenace /kick on and walking beams stopped,0:09, 0.15 ,02/02/2022
+22:33,22:37,E&A,E&A,MT,Furnace Area,Furnace,The bad charged billet stuck at discharging door - Billet head hit the furnace wall at discharing area,0:04, 0.07 ,02/02/2022
+00:56,01:33,E&A,E&A,MT,Furnace Area,Furnace,Accumulated delays of gaps inside furnace caused by charging photocells - Photo cell lost position ,0:06, 0.10 ,02/02/2022
+02:55,03:05,MECH,MECH,MT,Finishing Area,Tying Machine,Accumulated delays of TM1 out of service - Small piece of tying wire stuck inside twisre,0:04, 0.07 ,02/02/2022
+,,E&A,E&A,MT,Finishing Area,Tying Machine,"Accumulated delays of TM2, rejects the tying wire each time - Feeding wire sensor S4 or wire roller problem",0:11, 0.18 ,02/02/2022
+11:21,11:34,E&A,E&A,MT,Mill Area,Stand 10,Cobble after S10 due to material came out at looper 10 - Two billets close each to other (inter billet 0.4 S),0:13, 0.22 ,03/02/2022
+12:40,12:47,E&A,E&A,MT,,Communication Problem,Stop rolling - communication with server lost(alarm: WTP communication error),0:07, 0.12 ,03/02/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,Accumulative delays for ccl area full - Tying machine 1 not working propely (cut feeding ware in twister),0:10, 0.17 ,03/02/2022
+12:57,13:00,E&A,E&A,MT,Finishing Area,TWS,CCL area full - TWS updated in finishing area,0:03, 0.05 ,03/02/2022
+13:00,14:40,E&A,E&A,MT,Finishing Area,TWS,CCL area full - TWS updated problem in finishing area,1:40, 1.67 ,03/02/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,Accumlative delay ccl area full - TM 1 not working proprly,0:05, 0.08 ,03/02/2022
+04:23,05:00,MECH,MECH,MT,Finishing Area,Tying Machine,"Accumulated delays of TM1 and 2, TM1 cut the wire and sometimes wire stuck and didn't cut by twister/ Tm2 wire stuck inside twister each time - Not clear",0:37, 0.62 ,03/02/2022
+11:13,11:22,E&A,E&A,MT,Mill Area,Stand 10,Cobble after S10 due to material came out at looper 10 - Two billets close each to other (inter billet 0.7 S),0:09, 0.15 ,05/02/2022
+23:35,01:12,E&A,E&A,MT,Mill Area,Roughing Lubrication Unit,Mill not ready - Roughing mill lubrication unit faulty,1:37, 1.62 ,06/02/2022
+11:55,12:15,MECH,MECH,MT,Mill Area,Stand 14,Two cobbles after S 14 - Looper has a delay during lifting up,0:20, 0.33 ,07/02/2022
+13:56,15:23,MECH,MECH,MT,Finishing Area,Tying Machine,Accumulated delays of TM3 stopped many times - Tying wire stuck betwen rollers and TM body,0:08, 0.13 ,08/02/2022
+06:11,06:15,E&A,E&A,MT,Finishing Area,Booster QTB ,booster QTB tripped - QTB inlet minimum pressur,0:04, 0.07 ,09/02/2022
+00:45,00:50,E&A,E&A,MT,,Booster QTB ,Booster QTB tripped - QTB inlet minimum pressur,0:05, 0.08 ,09/02/2022
+03:25,03:50,E&A,E&A,MT,Mill Area,Fast Finishing Block ,Stop rolling - Air oil of Fast Finishing Block  line 02 cycle failed ( twice),0:25, 0.42 ,09/02/2022
+,,E&A,E&A,MT,Mill Area,Looper ,"Accumulative dealy QT checked ,UW under minimum - looper 2 not working proprly",0:40, 0.67 ,10/02/2022
+20:56,21:11,MECH,MECH,MT,Finishing Area,Tail Braker,one billet choppd - Coupling of Tail Braker 2a opened,0:15, 0.25 ,10/02/2022
+20:45,23:05,MECH,MECH,MT,Finishing Area,Cold Shear,CCl full many times because of the bottom roller befor cold shear doesn't rotate during scarp cycle. - The roller transmesion bolt was loosed,0:07, 0.12 ,10/02/2022
+,,E&A,E&A,MT,Finishing Area,Tying Machine,"Accumulative delay ccl area full - Tm 1 ,3 not working proprly",0:10, 0.17 ,11/02/2022
+11:27,11:30,E&A,E&A,MT,,Photocell,Stop rolling - PH charging door was not working proprly,0:03, 0.05 ,12/02/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,Accumulative delay ccl area full - TM 1 not working proprly,0:21, 0.35 ,12/02/2022
+10:35,10:40,E&A,E&A,MT,Furnace Area,Unloading device,Gaps inside furnace - Unloading device section B not working proprly,0:05, 0.08 ,13/02/2022
+,,E&A,E&A,MT,Finishing Area,HMI,"Accumulative delay ccl area full - short bars in cold shear , HMI",0:18, 0.30 ,13/02/2022
+,,E&A,E&A,MT,Finishing Area,HMI,Accumulative delays for ccl area full - More short bars in cut of 72m due to obtimization probleme,0:30, 0.50 ,13/02/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,"Accumulative delays for Ccl area full, tying M1 not working properly - Small pieces of wire stucked in wire duct due to its twister not cuting wire properly",0:10, 0.17 ,13/02/2022
+,,MECH,MECH,MT,Mill Area,Fast Finishing Block ,Mecha-team change seal of Fast Finishing Block  ,0:10, 0.17 ,13/02/2022
+03:39,04:33,E&A,E&A,MT,Furnace Area,Unloading device,Gab insaide furnace - Unloading device section A not aligned,0:54, 0.90 ,13/02/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,Accumulative delays of TMs stoppage / lost auto mode / make loosed ties - Not clear,0:10, 0.17 ,14/02/2022
+16:39,16:42,E&A,E&A,MT,Finishing Area,Cold Shear,CCL area full - Cold shear lubrication MCC fault,0:03, 0.05 ,14/02/2022
+,,MECH,MECH,MT,Finishing Area,Cold Shear,CCL area full - Scrap cycle not work properly,0:02, 0.03 ,14/02/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,Accumulative delays for ccl area full - Tying machine 1 not working properly due to feeding wire stucked in wire guides many times,0:12, 0.20 ,14/02/2022
+,,E&A,E&A,MT,Finishing Area,Unloading device,Accumulated delays for lost auto mode and gaps inside furnace - Unloading device not working properly,0:10, 0.17 ,14/02/2022
+02:46,02:50,MECH,MECH,MT,Finishing Area,Tying Machine,CCL area full - Tying M1 not cut feeding wire properly and caused one bundle going without first tied,0:04, 0.07 ,15/02/2022
+02:04,02:16,E&A,E&A,MT,Finishing Area,HMI,One billet chopped due to cobble detected at entry CB - The last bar of billet under shoot in line 1a,0:12, 0.20 ,15/02/2022
+,,E&A,E&A,MT,Finishing Area,Cold Shear,Accumulative delays for CCL area full due to cold shear evry 3 cuts lost automatic mode - Cold shear gease not automatic due to proximity S401 problem,0:14, 0.23 ,15/02/2022
+,,E&A,E&A,MT,Furnace Area,Unloading device,Accumulative delay for lost auto mode and gaps iside furnace - Unloading device not working properly,0:05, 0.08 ,15/02/2022
+09:14,09:20,E&A,E&A,MT,Finishing Area,Tying Machine,CCL area full - TM 2 lost auto mode,0:06, 0.10 ,16/02/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,Accumulative delay ccl area full - TM 1 not working properly,0:15, 0.25 ,16/02/2022
+17:38,17:54,MECH,MECH,MT,Finishing Area,Twin Channel ,Cobble detection by CB entry Hot Metal Detector s - After modefying the discharged length to 96m fire light up under Twin Channel  because of too much grease there and detected by Hot Metal Detector s,0:16, 0.27 ,17/02/2022
+12:40,13:00,E&A,E&A,MT,Mill Area,BC2 Fast Lance ,CCL area full - BC2 fast lance got tip,0:20, 0.33 ,18/02/2022
+,,E&A,E&A,MT,Finishing Area,Unloading device,Accumulative delay stop charging billet - Unloading device problem,0:10, 0.17 ,18/02/2022
+13:00,13:16,E&A,E&A,MT,,BC2 Fast Lance ,"CCL area full ,previous shift delay - BC2 fast lance got trip",0:16, 0.27 ,18/02/2022
+,,E&A,E&A,MT,Finishing Area,Tying Machine,Accumulative delay ccl area full - TM 2 not working properly,0:04, 0.07 ,18/02/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,Accumulative delays for ccl arae full - Tying machine 1 not tied properly,0:10, 0.17 ,19/02/2022
+,,E&A,E&A,MT,,Unloading device,Accumulative delays 3 gaps inside furnace and lost auto mode 3 times - Unloading device not working properly ,0:05, 0.08 ,19/02/2022
+08:43,08:52,E&A,E&A,MT,Finishing Area,HMI,Bar of 13 m over shoot - Optimization failure,0:09, 0.15 ,20/02/2022
+,,E&A,E&A,MT,Furnace Area,Furnace,Cumulative delay of auto discharging stopped - Under investigation by elecrtical team,0:07, 0.12 ,20/02/2022
+22:33,22:48,E&A,E&A,MT,Finishing Area,Tying Machine,CCL area full - Bundle didn't tying and got forwad to storage area,0:15, 0.25 ,20/02/2022
+13:56,14:05,E&A,E&A,MT,Finishing Area,HMI,Bar of 13.84 m over shoot in line 2 - Optimization failure,0:09, 0.15 ,22/02/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,Cumulative delay CCL area full - Tying machine 1 noy working properly,0:05, 0.08 ,22/02/2022
+00:44,01:41,MECH,MECH,MT,Mill Area,Stand 14,Cobble beforand after S14 due to S14 stop - S14 shaft conncting unit unknown position(physiquelly not connected properly),0:57, 0.95 ,22/02/2022
+12:54,13:00,E&A,E&A,MT,Furnace Area,Photocell,Gap created inside furnace - Photocell alignement missed,0:06, 0.10 ,23/02/2022
+16:21,16:35,E&A,E&A,MT,Finishing Area,HMI,Bar of 37 m undershoot in line 1 - Optimization failure,0:14, 0.23 ,23/02/2022
+00:24,00:36,E&A,E&A,MT,Mill Area,HMI,One billet auto chopped due to under shoot detected at L 1A - One bar discharged near than Hot Metal Detector  28,0:12, 0.20 ,23/02/2022
+10:01,10:11,E&A,E&A,MT,Finishing Area,HMI,Over shoot line one - HMI,0:10, 0.17 ,24/02/2022
+23:07,23:15,E&A,E&A,MT,Finishing Area,Tying Machine,CCL area full - TM 2 stopped on the bundle,0:08, 0.13 ,24/02/2022
+23:15,23:23,MECH,MECH,MT,Finishing Area,Tying Machine,CCL area full - Feeding wire could not pass in TM 1,0:08, 0.13 ,24/02/2022
+05:36,05:46,E&A,E&A,MT,Finishing Area,HMI,Over shoot line 2 13.83m in mean time change pass 5;6 - Optimizasion problem,0:10, 0.17 ,25/02/2022
+,,E&A,E&A,MT,Finishing Area,Transfert Trolly,CCL area full - Transfert trolly ;auto mode lost,0:03, 0.05 ,25/02/2022
+,,E&A,E&A,MT,Finishing Area,HMI,Over shoo line 1 - HMI,0:05, 0.08 ,25/02/2022
+22:21,22:42,E&A,E&A,MT,Finishing Area,HMI,One bar of 14m undershoot in CB line 2B - HMI,0:21, 0.35 ,26/02/2022
+02:34,02:43,E&A,E&A,MT,Finishing Area,HMI,"One bar of 09m at the end of billet overshooted in CB , one billet rejected and one chopped - HMI",0:09, 0.15 ,26/02/2022
+,,E&A,E&A,MT,Finishing Area,MCC Trip,Accumulated delays for ccl area full - Lining up rolls on colling bed#5 MCC trip many times,0:12, 0.20 ,27/02/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,"Accumulative delays for ccl area full - Tying machine 3 not working properly,feeding wire stucked in its guides due to wire guides not open",0:13, 0.22 ,27/02/2022
+15:20,15:29,E&A,E&A,MT,Finishing Area,HMI,"Over shoot line1,(9m) - Optimization not working properly",0:09, 0.15 ,27/02/2022
+03:19,03:27,E&A,E&A,MT,,CVAH Line 01 Trip,1.5 billet auto chopped - CVAH line 1 got trip,0:08, 0.13 ,28/02/2022
+,,E&A,E&A,MT,Furnace Area,Unloading device,Accumulative delays gabs inside furnace - Unloading device not working properly,0:05, 0.08 ,28/02/2022
+,,MECH,MECH,MT,Finishing Area,Pinch Roll 03,Two cobble in Fast Finishing Block  1 - Cylinder of pinch roll 3 was not working,0:50, 0.83 ,01/03/2022
+13:17,13:29,E&A,E&A,MT,Finishing Area,Tying Machine,CCL area full - One bundle passed the TMs without tightening,0:12, 0.20 ,02/03/2022
+16:59,17:11,E&A,E&A,MT,Finishing Area,HMI,Last bar of 59 m under shoot in 1B - The last bar discharged under the Hot Metal Detector  27,0:12, 0.20 ,02/03/2022
+06:20,06:28,E&A,E&A,MT,Finishing Area,HMI,One ber of 15m overshooted in CB at the end of the billet - Optimisation failur,0:08, 0.13 ,03/03/2022
+,,E&A,E&A,MT,Furnace Area,Furnace,Accumulated delays of GAPs created inside furnace and unloading device time out - weighing sys needs to be clalebrated,0:07, 0.12 ,03/03/2022
+15:41,15:56,E&A,E&A,MT,Finishing Area,Vertical Transfert,Under shoot line 1A - The sixth bar discharged near to tail breaker,0:15, 0.25 ,03/03/2022
+,,E&A,E&A,MT,Furnace Area,Furnace,Cumulative delay of gaps inside furnace - Weighing system reading the weigh of the billets more then the maximum,0:06, 0.10 ,03/03/2022
+03:12,03:30,E&A,E&A,MT,Finishing Area,Dividing Shear Line 1 Trip,1.6 billets auto chopping - Dividing shear line 1 tripped,0:18, 0.30 ,03/03/2022
+,,E&A,E&A,MT,Furnace Area,Furnace,Accumulated delays 6 cycle gaps inside furnace and mode auto lost - Unloading dvice not working properly ,0:07, 0.12 ,03/03/2022
+15:52,16:29,E&A,E&A,MT,Finishing Area,HMI,At the end of the billet one bar of 14m under shooted and stuck befor TB and after discharging tow bars of the next billet the 3rd 84m bar stuck there and caused cobble detection at Twin Channel  2B / optimisation was not working - HMI,0:37, 0.62 ,04/03/2022
+20:04,20:18,E&A,E&A,MT,Finishing Area,Hot Metal Detector ,Under shoot line 1 - Last bar 30 m discharged near to Hot Metal Detector ,0:14, 0.23 ,04/03/2022
+20:19,20:33,MECH,MECH,MT,,Tail Breaker,Over shoot in line 2 at the head of the billet - Tail Braker coupling loose,0:14, 0.23 ,04/03/2022
+20:37,20:50,E&A,E&A,MT,Finishing Area,Hot Metal Detector ,Under shoot in line 2 - Last bar 26 m discharged close to Hot Metal Detector ,0:13, 0.22 ,04/03/2022
+21:02,21:26,E&A,E&A,MT,Finishing Area,Hot Metal Detector ,Under shoot line 1 - Last bar 40 m discharging under the Hot Metal Detector ,0:24, 0.40 ,04/03/2022
+09:23,09:27,E&A,E&A,MT,,Vertical Transfert,CCL area full - BC 1 going timeout,0:04, 0.07 ,05/03/2022
+,,E&A,E&A,MT,Furnace Area,Furnace,Accumulated delays of auto chaginging stoppages because of furnace weighing systeme reads more than 2200kg and after rejecting and charge back the rejected billes they were charged - furnace weighing sys doesn't work properly without any problem ,0:06, 0.10 ,05/03/2022
+21:29,21:32,E&A,E&A,MT,Finishing Area,Tying Machine,CCL area full - Tying machine stopped on the bundle,0:03, 0.05 ,05/03/2022
+,,E&A,E&A,MT,Furnace Area,Furnace,Cumulative delay of gaps inside furnace - Weighing system not working properly,0:08, 0.13 ,05/03/2022
+06:55,07:08,E&A,E&A,MT,Finishing Area,Hot Metal Detector ,One billet auto chopped due to cobble detected at CB entry line 1a (under shoot) - The last bar of billet discharged near than Hot Metal Detector  26,0:13, 0.22 ,06/03/2022
+02:33,02:56,E&A,E&A,MT,Mill Area,Fast Finishing Block ,Fast Finishing Block 2 DC link tripped / bars undershooted and stuck inside Twin Channel  - Not clear,0:23, 0.38 ,06/03/2022
+03:39,04:01,E&A,E&A,MT,Mill Area,Fast Finishing Block ,Fast Finishing Block 2 DC link tripped / bar stuck from TB to WB3 - Not clear,0:22, 0.37 ,06/03/2022
+,,E&A,E&A,MT,Mill Area,Weighing system,"Accumulated delays of weighing system stoppage, wrong weight reding and many billets rejected manualy - Load cells problem",0:05, 0.08 ,06/03/2022
+05:29,05:40,E&A,E&A,MT,Mill Area,Fast Finishing Block ,Cobble detected at Fast Finishing Block  line 2 - Fast Finishing Block  line 2 was tripped,0:11, 0.18 ,07/03/2022
+10:29,10:42,E&A,E&A,MT,Finishing Area,HMI,Under shoot line 2 - Last bar of 61 m did not completly discharge,0:13, 0.22 ,08/03/2022
+,,E&A,E&A,MT,Finishing Area,Hot Metal Detector ,Cumulative delay of close billets on the furnace discharging table - Hot Metal Detector s flickering,0:04, 0.07 ,08/03/2022
+03:31,03:41,E&A,E&A,MT,,Twin Channel  Trip,One billet auto chopped - Twin Channel  1A got trip,0:10, 0.17 ,08/03/2022
+17:30,17:43,E&A,E&A,MT,Finishing Area,HMI,One billet auto chopped due to the last bar of 105m over shoot - Optimization failed,0:13, 0.22 ,09/03/2022
+19:55,19:58,E&A,E&A,MT,Mill Area,Cooling Water,Mill not ready - Hi-section cooling water fault,0:03, 0.05 ,09/03/2022
+20:28,20:33,E&A,E&A,MT,Mill Area,Cooling Water,"Mill stopped ,one billet rejected - Hi-section cooling water fault",0:05, 0.08 ,09/03/2022
+08:06,08:11,E&A,E&A,MT,,CVR,DCVR2 stay in chopping line / one billet chopped manualy / no alarm appeared - No clear reason,0:05, 0.08 ,10/03/2022
+00:33,00:38,E&A,E&A,MT,Finishing Area,Vertical Transfert,CCL area full - One bundle going with one layer,0:05, 0.08 ,10/03/2022
+18:23,18:32,E&A,E&A,MT,Mill Area,Hot Metal Detector ,Last ber of 60 m under shoot in 2B - Last bar tail rest under Hot Metal Detector ,0:09, 0.15 ,11/03/2022
+23:32,23:43,E&A,E&A,MT,Finishing Area,HMI,One billet auto chopped - The last bar of 60m under shoot in line 2B,0:11, 0.18 ,11/03/2022
+08:32,08:48,MECH,MECH,MT,Furnace Area,Hydraulic Unit,Furnace not ready - Oil leakage in hydraulic unit,0:16, 0.27 ,13/03/2022
+06:28,06:38,E&A,E&A,MT,Mill Area,Cooling Water,0.5 billet auto chopped due to quenching system dropped - Water pumps of QTB return tank was switch off,0:10, 0.17 ,14/03/2022
+18:41,18:50,E&A,E&A,MT,Finishing Area,Vertical Transfert,CCL area full - Bars stucked in vertical transfert BC 2 broblem,0:09, 0.15 ,15/03/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,Cumulative delay CCL area full - Tying Machine  not working properly,0:24, 0.40 ,16/03/2022
+,,E&A,E&A,MT,,Lances,Cumulative delay of CCL area full - Lances not working properly,0:07, 0.12 ,17/03/2022
+13:13,13:29,E&A,E&A,MT,Mill Area,Cold Shear,CCL area full - Cold shear switch off due to its fan motor fault,0:16, 0.27 ,17/03/2022
+03:19,03:54,MECH,MECH,MT,Mill Area,Vertical Transfert,CCL area full - BC2 vertical transfer high motor torque due to its braking system problem,0:35, 0.58 ,18/03/2022
+22:55,23:04,E&A,E&A,MT,Mill Area,Looper,One billet rejeted due to looper after S14 go down and caused CVR looper both line down - No clear reason,0:09, 0.15 ,19/03/2022
+03:59,04:02,E&A,E&A,MT,Mill Area,Looper,Stop rolling - Looper after S14 not stable .,0:03, 0.05 ,19/03/2022
+04:07,04:14,E&A,E&A,MT,Mill Area,Looper,Stop rolling again - Looper after S14 not stable due to founed full by water,0:07, 0.12 ,19/03/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,Accumulative delays for ccl area full - Tying M1 not working properly due to one bearing of wire guide damaged,0:08, 0.13 ,19/03/2022
+13:38,13:51,E&A,E&A,MT,Mill Area,CVR,CVR2 door imibolisation still activated after door closed - Limit switch cam faled down,0:13, 0.22 ,20/03/2022
+01:50,02:16,E&A,E&A,MT,Mill Area,Looper,Tension created in mill - Looper after stand 14 not stable,0:26, 0.43 ,20/03/2022
+,,E&A,E&A,MT,Finishing Area,Tying Machine,Accumulative delay ccl area full - TM 2 not working properly,0:03, 0.05 ,21/03/2022
+13:51,14:10,E&A,E&A,MT,Finishing Area,HMI,One bar of 31m overshooted in line2 at the end of the billet - HMI,0:19, 0.32 ,21/03/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,Tyning machine 1 was not tightened - Encoder roller broke,0:13, 0.22 ,21/03/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,"Accumulated delays for ccl area full (one bundle going without first tie and stuck in roller table after tying 3) - Tying machine 1,2 not working properly (tying M1 cutting feeding wire in twister)",0:15, 0.25 ,22/03/2022
+17:22,17:45,E&A,E&A,MT,Finishing Area,Pinch Roll 03,"Cobble in Fast Finishing Block  2 - No clear reason ,but PR 3 not working properly",0:23, 0.38 ,22/03/2022
+19:29,20:23,MECH,MECH,MT,Furnace Area,Encoder Section B,Gap inside furnace - Encoder section B of transfer billet table fell down,0:54, 0.90 ,23/03/2022
+22:51,23:09,E&A,E&A,MT,Mill Area,Looper,Looper 14 go down physicaly but on HMI shown high (more than 30%) and Mill RPMs decreased wich caused flat rebars on CB  - wronge reading of the looper hight by Hot Metal Detector  because of wet glass,0:18, 0.30 ,23/03/2022
+09:37,09:42,E&A,E&A,MT,Mill Area,Stand,Spindle support unlocked on HMI but locked physically - Under investigation by maintenece team,0:05, 0.08 ,24/03/2022
+19:03,19:10,E&A,E&A,MT,Mill Area,Looper,Stop rolling due to looper after S14 go down - Hot Metal Detector  secreen of looper found full with water,0:07, 0.12 ,24/03/2022
+03:06,03:42,E&A,E&A,MT,Mill Area,Looper,"Looper 14 go down physicaly,torque of st 14 not stable and mill Rpms decreased wich caused bars without L-rib  - No clear reason",0:36, 0.60 ,24/03/2022
+14:36,15:06,E&A,E&A,MT,Mill Area,CVR,Cobble after S 16 to CVR chopping shear - Material set in chopping shear line 1,0:30, 0.50 ,25/03/2022
+15:06,15:40,E&A,E&A,MT,Mill Area,Fast Finishing Block ,Mill not ready due to Fast Finishing Block  line 2 not ready - Protection cover motor fault. Auto feed tank level low. Gear lubrication module min,0:34, 0.57 ,25/03/2022
+16:36,16:50,MECH,MECH,MT,Mill Area,Cooling Water,Cooling water of roughing mill not stop - Air leakage in roughing water valve,0:14, 0.23 ,25/03/2022
+16:59,17:49,E&A,E&A,MT,Mill Area,DC Link 03 Trip ,Cobble from S10 to looper after S14 - DClink DRM 03 tripped,0:50, 0.83 ,25/03/2022
+19:19,19:27,MECH,MECH,MT,Mill Area,Discaler Water ,One billet rejected due to stucked inside discaler water - Piece broken from discaler water ,0:08, 0.13 ,25/03/2022
+08:12,09:16,E&A,E&A,MT,Furnace Area,Encoder Problem,Gap inside furnace because of billet transfer table beam4 not aligned - Beam 4 encoder wire problem,1:04, 1.07 ,26/03/2022
+10:39,10:42,E&A,E&A,MT,,OWS hunged,2 Close billets discharged / OWS hunged - Not clear,0:03, 0.05 ,26/03/2022
+08:19,08:28,E&A,E&A,MT,Mill Area,Looper,"Cobble at looper of stand 10, 2 close billets discharged (0.9 S interbillets) during normal autorolling - Under investigation",0:09, 0.15 ,27/03/2022
+,,E&A,E&A,MT,,Discharging Billets,Delays of close discharging billets - Under investigation,0:07, 0.12 ,27/03/2022
+17:23,17:29,E&A,E&A,MT,Finishing Area,Tying Machine,Tying machine 3 out of service - Electrical cable cut,0:06, 0.10 ,27/03/2022
+20:14,20:24,E&A,E&A,MT,Mill Area,Stand,Mill not ready - Stand 01 spindle support unlocked but physically found locked,0:10, 0.17 ,27/03/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,"Accumulated delays,tying M1 stopped many times - Entry wire guide found very dirty",0:06, 0.10 ,27/03/2022
+03:57,04:01,E&A,E&A,MT,Mill Area,Looper,"Stop rolling - Looper after S12,14 not stable",0:04, 0.07 ,27/03/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,Accumulatived delay ccl area full - Taying machine 03 twisting damaged,0:05, 0.08 ,28/03/2022
+20:00,20:17,E&A,E&A,MT,Mill Area,Twin Channel  Trip,Mill no ready - Twin Channel  1B drive fault,0:17, 0.28 ,28/03/2022
+21:56,22:09,E&A,E&A,MT,Finishing Area,HMI,One billet chopped - Bar 63m under shoot in line one,0:13, 0.22 ,28/03/2022
+22:46,22:58,E&A,E&A,MT,Finishing Area,HMI,One billet chopped and one rejected - Last bar 49m under shoot in line one,0:12, 0.20 ,28/03/2022
+03:30,03:45,E&A,E&A,MT,Finishing Area,HMI,One billet chopped and one rejected - Last bar 37 m under shoot in line one,0:15, 0.25 ,28/03/2022
+15:02,15:10,E&A,E&A,MT,Finishing Area,Vertical Transfert,Section A lances don't reach fully backward home position and cause bars alignement problem in verticat transfer - Encoder problem,0:08, 0.13 ,29/03/2022
+20:35,20:40,E&A,E&A,MT,Finishing Area,Tying Machine,"CCL area ,one bundle passed without tying - Taying machine problem",0:05, 0.08 ,29/03/2022
+10:20,10:26,MECH,MECH,MT,Finishing Area,Tying Machine,CCL area full due to one bundle going without first tie and stuck at rollres table after tying M3  - Feeding wire broken at twister of Tying M1,0:06, 0.10 ,31/03/2022
+10:39,12:17,E&A,E&A,MT,,DRM 03 Trip,Material stuck from CVRs to stand 10 - DRM 03 tripped,1:38, 1.63 ,01/04/2022
+06:16,06:27,E&A,E&A,MT,Mill Area,E36DRM01 Trip,Fast Finishing Block  2 can not started - E36DRM01 tripped,0:11, 0.18 ,02/04/2022
+,,MECH,MECH,MT,,Cold Shear,Bars stuck in cold cut shear and problem repeted many times - Blade position need to be adjusted,0:20, 0.33 ,02/04/2022
+11:58,12:10,E&A,E&A,MT,Mill Area,Fast Finishing Block ,Fast Finishing Block  2 stopped - Motor drive fault,0:12, 0.20 ,02/04/2022
+,,MECH,MECH,MT,Mill Area,Stand 08,"Mill not ready ,grease connector of st 8 changed by mech-team ",0:10, 0.17 ,02/04/2022
+05:30,05:41,MECH,MECH,MT,Mill Area,Stand 05,Stop rolling - Spindle support of st 5 unlocked,0:11, 0.18 ,02/04/2022
+06:00,11:00,E&A,E&A,MT,Mill Area,Hot Metal Detector ,Accumulative delays of actual interbillet time can't be decreased to the set value wich is 5S - Not clear,0:14, 0.23 ,03/04/2022
+08:23,08:36,MECH,MECH,MT,Finishing Area,Pneumatic Cylinder,Stopper 2 doesn't go up - Pneumatic cylinder problem,0:13, 0.22 ,03/04/2022
+07:45,07:56,E&A,E&A,MT,Mill Area,Stand 05,Stand 5 spindel lock signal missed - Proxy problem,0:11, 0.18 ,04/04/2022
+,,E&A,E&A,MT,Furnace Area,Furnace,4 Separated gaps inside furnace - Photocell VEF3 sensing without presence of the billet,0:04, 0.07 ,04/04/2022
+01:35,01:40,MECH,MECH,MT,Finishing Area,Tying Machine ,CCL area full due to tying M1 not working properly - Tying M1 stop in down position (no clear reason),0:05, 0.08 ,04/04/2022
+05:34,05:40,MECH,MECH,MT,Mill Area,Tying Machine ,CCL area full - The first tie cut at twister of Tying M2 then one bar came out and caused elec cable of Tying M3 damaged,0:06, 0.10 ,04/04/2022
+05:56,06:00,E&A,E&A,MT,Mill Area,Spindle Support,Mill not ready - Spindle Support unlocked but physically is locked,0:04, 0.07 ,06/04/2022
+06:00,06:11,E&A,E&A,MT,Mill Area,Spindle Support,Mill not ready - Spindle Support unlocked but physically is locked,0:11, 0.18 ,07/04/2022
+12:01,12:08,E&A,E&A,MT,Finishing Area,Dividing Shear 02,One billet auto chopped due to cobble detected at Cut to lentgh - Dividing shear line 2 tripped,0:07, 0.12 ,07/04/2022
+14:50,15:00,E&A,E&A,MT,Finishing Area,Looper ,Looper n 02 not working - Valve problem,0:10, 0.17 ,07/04/2022
+02:45,03:41,E&A,E&A,MT,Finishing Area,Tail Breaker,Tail Braker 1b can't be started / motor fan alarm - Not clear,0:56, 0.93 ,07/04/2022
+12:35,13:00,E&A,E&A,MT,Mill Area,Twin Channel ,Cobble in Twin Channel  2A to Fast Finishing Block  2 - Bar of 58 m hit in Twin Channel  2A,0:25, 0.42 ,08/04/2022
+15:25,15:50,MECH,MECH,MT,Mill Area,Snap Shear,Mill not reday - Line 2 snap shear not getting open,0:25, 0.42 ,08/04/2022
+07:16,07:25,MECH,MECH,MT,Finishing Area,Tying Machine ,Tying machine 1 stopped - Wire stuck in twisting unit,0:09, 0.15 ,09/04/2022
+07:32,07:36,E&A,E&A,MT,Finishing Area,Vertical Transfer,Bars stuck vertical transfer - Vertical trebsfrt lost the synchronistion,0:04, 0.07 ,09/04/2022
+08:10,08:14,E&A,E&A,MT,,DCVAH Trip ,Chopping request from DCVAH during ghost rolling - DCVAH drive tripped,0:04, 0.07 ,10/04/2022
+11:07,11:19,E&A,E&A,MT,,Hot Metal Detector ,Fast Finishing Block 1 looper did not work - Hot Metal Detector  not detecting,0:12, 0.20 ,10/04/2022
+12:08,12:20,E&A,E&A,MT,,DCVAH Trip,"DCVAH tripped, one billet autochopped ",0:12, 0.20 ,11/04/2022
+10:35,13:00,E&A,E&A,MT,,Hot Charging,Accumulated delays of hot charging trials - Many stoppages during hot charging,1:21, 1.35 ,11/04/2022
+,,E&A,E&A,MT,Furnace Area,Hot Charging,Cumulative delay of gaps inside furnace and discharging interruptions - Many stoppages during hot charging,1:06, 1.10 ,11/04/2022
+01:29,01:41,E&A,E&A,MT,Finishing Area,HMI,One billet auto chopped due to one bar of 14m over shoot in line 2 - Optimization failed,0:12, 0.20 ,11/04/2022
+11:15,11:25,E&A,E&A,MT,Finishing Area,Pinchroll,Bar of 48m has a flat head undershoot in cb during normal auto rolling - Flat head caused by PRs Close timing ,0:10, 0.17 ,12/04/2022
+11:56,12:05,E&A,E&A,MT,Finishing Area,HMI,Bar of 14m overshooted in CB Line 2b during normal autorolling - HMI,0:09, 0.15 ,12/04/2022
+,,E&A,E&A,MT,,Hot Charging,Too many stoppages because of hot charging trials - Fixe hot charging problems ,1:16, 1.27 ,12/04/2022
+19:33,19:41,E&A,E&A,MT,Finishing Area,HMI,Last bar of 13 m over shoot in line 2 - Optimization failure,0:08, 0.13 ,12/04/2022
+20:54,21:07,E&A,E&A,MT,Finishing Area,HMI,Last bar of 13 m over shoot in line 2 - Optimization failure,0:13, 0.22 ,12/04/2022
+,,E&A,E&A,MT,,Hot Charging,Cumulative delay of gaps inside furnace and discharging intrruption - Hot charging trials ,1:00, 1.00 ,12/04/2022
+06:29,06:47,E&A,E&A,MT,,Twin Channel ,One billet auto chopped bar of 41m has a undershoot line 1 - Head of bar got stuck in Twin Channel  1a ,0:18, 0.30 ,13/04/2022
+,,E&A,E&A,MT,,Hot Charging,Cumulative delay of gaps inside furnace and discharging intrruption - Hot charging trials,0:34, 0.57 ,13/04/2022
+13:00,16:00,E&A,E&A,MT,,Hot Charging,74 GAPs created inside furnace and delays of waiting SMS billets after each technical stoppage - Hot charging Problems,1:29, 1.48 ,13/04/2022
+04:02,04:15,MECH,MECH,MT,Finishing Area,Tying Machine ,One bendle went without the first tie in Tying Machine  - Tying machine 1 not working properly,0:13, 0.22 ,13/04/2022
+04:39,04:48,E&A,E&A,MT,Finishing Area,HMI,Last bar of 13 m over shoot in line 2 - Optimization failure,0:09, 0.15 ,13/04/2022
+,,E&A,E&A,MT,,Hot Charging,18 GAP created inside furnace - Hot charging Problems,0:20, 0.33 ,14/04/2022
+14:37,14:44,E&A,E&A,MT,Finishing Area,HMI,Bar of 40m overshooted in CB at the end of billet line2 - Optipmization problem,0:07, 0.12 ,14/04/2022
+13:00,16:13,E&A,E&A,MT,,Hot Charging,Accumulated delays of 39 cycle gaps inside furnace and many stoppages because of hot charging - Hot charging Problems,0:58, 0.97 ,14/04/2022
+21:42,21:53,MECH,MECH,MT,,Looper,Front end of bar came out - looper 12 didn't work properly,0:11, 0.18 ,14/04/2022
+,,E&A,E&A,MT,,Hot Charging,6 cycles gaps created inside furnace - Hot charging Problems,0:27, 0.45 ,15/04/2022
+13:33,13:41,E&A,E&A,MT,Mill Area,Dividing Shear,Mill not reday - Dividing shear :Alarm machine lubrication min oil flow,0:08, 0.13 ,15/04/2022
+13:48,14:02,E&A,E&A,MT,,Twin Channel ,One billet auto chopped under shoot TB 1b.....41 m - Front end of bar got stuck in Twin Channel  1b ,0:14, 0.23 ,15/04/2022
+18:04,18:54,E&A,E&A,MT,,Pinchroll,Cobbe from Fast Finishing Block  2 to cut to length area - Front end of billet closed by PR and caused the cobble,0:50, 0.83 ,15/04/2022
+19:45,20:10,E&A,E&A,MT,,Twin Channel ,One billet auto chopped under shoot TB 1A...38 m - Front end of bar got stuck in Twin Channel  1a ,0:25, 0.42 ,15/04/2022
+,,E&A,E&A,MT,,Hot Charging,56 GAPs created inside furnace - Hot charging Problem,1:10, 1.17 ,15/04/2022
+23:32,00:27,E&A,E&A,MT,,Trucking Problem,Bar head too much flat and stuck at DCVAH2 and caused cobble from DCVAH to BGV2 - One of PRs befor CVAH close befor bar head arrival and make it flattened because of trucking problem,0:55, 0.92 ,15/04/2022
+01:01,01:54,E&A,E&A,MT,,Trucking Problem,The same cobble repeated - One of PRs befor CVAH close befor bar head arrival and make it flattened because of trucking problem,0:53, 0.88 ,15/04/2022
+15:24,17:05,E&A,E&A,MT,,DCVAH,Cobble from Fast Finishing Block  2 to TB - 4 Bars on the same side after DCVAH,1:41, 1.68 ,16/04/2022
+19:46,20:31,E&A,E&A,MT,,Twin Channel ,"One billet chopped ,under shoot line 1b - Front end of bar got stuck in Twin Channel  1b and TB",0:45, 0.75 ,16/04/2022
+20:32,20:48,E&A,E&A,MT,Mill Area,Stand 15,One billet auto chopped material in st 15 line 2 going Down ,0:16, 0.27 ,16/04/2022
+23:09,00:32,MECH,MECH,MT,,Twin Channel ,The 3th bar of running billet came out of Twin Channel  1B and caused cobble in Twin Channel  and CB ,0:41, 0.68 ,16/04/2022
+,,E&A,E&A,MT,,Hot Metal Detector ,Cumulative delays of interbillet coming between 12 and 14 seconds instead of the put value which is 5 seconds - Problem still exist,0:24, 0.40 ,18/04/2022
+,,MECH,MECH,MT,Mill Area,Snap Shear,Mill not reday - Snap shear line 2 not open,0:10, 0.17 ,18/04/2022
+03:29,04:52,E&A,E&A,MT,Mill Area,Shear 01,Material come out in st 11 and caused gear box lub.oil switch flow damaged - Shear1 has make cutting the billet after part of the taile passs and making the looper11 in production position and,1:23, 1.38 ,18/04/2022
+06:00,08:28,E&A,E&A,MT,,Hot Metal Detector ,Accumulated delays of inter billet can't be decreased less than 10 Sec ,0:18, 0.30 ,19/04/2022
+22:23,23:13,E&A,E&A,MT,,Hot Metal Detector ,Cobble from Stand 1 to Stand 10 - Big tail end of billet stucked in shear 1 and next billet hit it due to Hot Metal Detector  7 was flickring,0:50, 0.83 ,19/04/2022
+23:59,00:28,E&A,E&A,MT,,Hot Metal Detector ,Cobble again after Stand 10 - Shear 1 make cycle cut after 15% of billet passed due to Hot Metal Detector  7 was flicring again,0:29, 0.48 ,19/04/2022
+00:29,01:39,E&A,E&A,MT,,Hot Metal Detector ,Cobble again after Stand 10 - Shear 1 make cycle cut after 15% of billet passed due to Hot Metal Detector  7 was flicring again,1:10, 1.17 ,19/04/2022
+01:40,02:16,MECH,MECH,MT,,Looper,Cobble detected at CVR line 2 to exit of stand 16 - Front end of material going down of CVR looper roller,0:36, 0.60 ,19/04/2022
+04:17,04:33,E&A,E&A,MT,,Hot Metal Detector ,One billet rejected - Big tail end of billet stucked in shear 1 and next billet hit it due to Hot Metal Detector  7 was flickring,0:16, 0.27 ,19/04/2022
+05:05,05:13,E&A,E&A,MT,,Hot Metal Detector ,Stop rolling - Hot Metal Detector  7 was flickring,0:08, 0.13 ,19/04/2022
+,,E&A,E&A,MT,,Hot Charging,"Accumulative delays of inter billet time changes and cycle gaps inside furnace ,shift between hot and cold mode ,billet stopped on SMS side roller table - CCM transfer speed less than RM productivity , furnace charging Roller table alwayse empty",0:58, 0.97 ,20/04/2022
+17:05,17:11,E&A,E&A,MT,,Cold Shear,CCL area full - Cold shear stopped,0:06, 0.10 ,20/04/2022
+,,E&A,E&A,MT,,Hot Charging,"Accumulative delays of inter billet time changes and cycle gaps inside furnace ,shift between hot and cold mode ,billet stopped on SMS side roller table - CCM transfer speed less than RM productivity , furnace charging Roller table alwayse empty ,bended billets fell from unloading device wich creats gaps in furnace",4:20, 4.33 ,20/04/2022
+,,E&A,E&A,MT,,Hot Charging,"Accumulative delays of inter billet time changes and cycle gaps inside furnace ,shift between hot and cold mode ,billet stopped on SMS side roller table - CCM transfer speed less than RM productivity , furnace charging Roller table alwayse empty ,bended billets fell from unloading device wich creats gaps in furnace",1:40, 1.67 ,20/04/2022
+,,E&A,E&A,MT,,Hot Charging,"Start Hot charging ,billet elevator not working properly and the last time lost its synchrolization - Hot charge trials",0:39, 0.65 ,21/04/2022
+12:42,12:52,E&A,E&A,MT,,Grease Unit,Mill stopped - Descaler ..grease unit rm and shear tripped,0:10, 0.17 ,21/04/2022
+13:00,19:25,E&A,E&A,MT,,Hot Charging,Accumulative delays of transfer stoppage from sms and shift to thier CB du to low transfer speed and billets accumulation / inter billet time changes and cycle gaps inside furnace / shift - CCM transfer speed less than RM and CCM productivity / furnace charging RT table alwayse empty between hot and cold mode / billet stopped on SMS side roller table ,2:45, 2.75 ,21/04/2022
+23:29,23:41,E&A,E&A,MT,Mill Area,Grease Unit,Grease unit of mill and shear one stopped - The units tripped ,0:12, 0.20 ,21/04/2022
+14:46,14:54,E&A,E&A,MT,Mill Area,Looper,"Cobble at stand10 looper , tow close billets discharged - Furnace exit RT2 speed decreased",0:08, 0.13 ,22/04/2022
+17:40,17:44,E&A,E&A,MT,,Hot Metal Detector ,Hot Metal Detector  6 keep sensing without billet in the mill - Probably because of sun light was directly on it,0:04, 0.07 ,22/04/2022
+19:11,19:21,MECH,MECH,MT,Finishing Area,Tying Machine ,Accumulative delays TM1 out of sevice - Guide wire clogged by scale,0:10, 0.17 ,22/04/2022
+,,E&A,E&A,MT,,Hot Charging,Accumulative delays of transfer stoppage from sms and shift to thier CB du to low transfer speed and billets accumulation / inter billet time changes and cycle gaps inside furnace / shift - CCM transfer speed less than RM and CCM productivity / furnace charging RT table alwayse empty between hot and cold mode / billet stopped on SMS side roller table ,1:17, 1.28 ,22/04/2022
+10:34,10:51,E&A,E&A,MT,Finishing Area,HMI,One billet auto chopped due to the last bar of 14m over shoot in line 2 - Obtimization in line 2 failed,0:17, 0.28 ,23/04/2022
+11:28,11:54,E&A,E&A,MT,Finishing Area,HMI,One billet auto chopped due to the last bar of 14m over shoot in line 2 - Obtimization in line 2 failed,0:16, 0.27 ,23/04/2022
+14:47,15:02,E&A,E&A,MT,Finishing Area,HMI,One billet auto chopped due to the last bar of 08m over shoot in line 2 - Optimization in line 2 failed,0:15, 0.25 ,23/04/2022
+19:46,19:57,E&A,E&A,MT,Mill Area,DCVAH,One bille auto Chopped and bar stucked in cb - DCVAH got trip,0:11, 0.18 ,23/04/2022
+01:02,02:35,MECH,MECH,MT,Finishing Area,Tying Machine ,Accumulative delays of TM3 out of service and get it on and off line many times - Wire guide clogged and guide roll jam,0:15, 0.25 ,24/04/2022
+17:42,17:47,E&A,E&A,MT,Mill Area,Trucking Problem,Loop after S11 set in up position - Traking problem,0:05, 0.08 ,25/04/2022
+,,E&A,E&A,MT,Furnace Area,Unloading Device,Cumulative delays of gaps inside furnace and discharging intrruption - Unloading device stop during loading the billet from the charging table,0:08, 0.13 ,26/04/2022
+,,E&A,E&A,MT,Furnace Area,Hot Charging,Accumulative delays of inter billet time changes and a lot of cycle gaps inside furnace. - CCM transfer speed less than RM productivity / furnace charging RT table alwayse empty,0:45, 0.75 ,26/04/2022
+,,E&A,E&A,MT,Furnace Area,Unloading Device,Accumulated delays for cycles gaps inside furnace - Unloading device stop during loading the billet from the charging table,0:08, 0.13 ,26/04/2022
+,,E&A,E&A,MT,,Hot Charging,Accumulative delays of hot charging stoppages - Transfer speed less than RM productivity and CCM / furnace charging RT table alwayse empty / many stoppages from sms side du to shifting to CCM CB each time,0:27, 0.45 ,27/04/2022
+,,E&A,E&A,MT,,Hot Charging,Accumulative delays of hot charging stoppages - Transfer speed less than RM productivity and CCM / furnace charging RT table alwayse empty / many stoppages from sms side du to shifting to CCM CB each time/ billets bunded on the SMS shifting table,1:19, 1.32 ,27/04/2022
+,,E&A,E&A,MT,Furnace Area,Unloading Device,Unloading device stops many times before vertical movement ,0:07, 0.12 ,28/04/2022
+11:20,13:00,E&A,E&A,MT,Furnace Area,Hot Charging,Accumulated delays of hot charging stoppages - Transfer speed less than RM productivity and CCM / furnace charging RT table alwayse empty / many stoppages from sms,0:40, 0.67 ,28/04/2022
+,,E&A,E&A,MT,Furnace Area,Unloading Device,Unloading device stops many times before vertical movement ,0:07, 0.12 ,28/04/2022
+,,E&A,E&A,MT,,Hot Charging,Accumulated delays of hot charging stoppages - transfer speed less than RM productivity and CCM / furnace charging RT table alwayse empty / many stoppages from sms,1:43, 1.72 ,28/04/2022
+,,E&A,E&A,MT,,Hot Metal Detector ,Cumulative delays of auto discharging interruptions - Hot Metal Detector  15 flickering,0:05, 0.08 ,28/04/2022
+,,E&A,E&A,MT,Mill Area,Hot Metal Detector ,Accumulated delays of auto discharging interruptions and unloading device stops many times before vertical movement - S15 Hot Metal Detector  continuity alarm,0:10, 0.17 ,28/04/2022
+05:56,06:00,E&A,E&A,MT,,Photocell,CCL area full - PH 05 problem,0:03, 0.05 ,29/04/2022
+06:00,06:12,E&A,E&A,MT,,Photocell,Previeus shift delay ccl area full - PH 05 problem,0:12, 0.20 ,30/04/2022
+07:15,08:18,E&A,E&A,MT,,Lubrication Units,"CCL area full cold shear not working ,at the same time change tc- ring Fast Finishing Block  19 to 22 - Lubrication units problem",1:03, 1.05 ,30/04/2022
+09:35,09:45,MECH,MECH,MT,Finishing Area,Cold Shear,CCL area full due to bars go down of roller table after cold shear - Cold shear blades not cut properly head of layer( bars bended in middle of billet),0:10, 0.17 ,01/05/2022
+10:32,10:35,MECH,MECH,MT,Finishing Area,Tying Machine ,CCL area full due to one bendle going without first tie.and stuck at roller table after tying M3 - feeding wire of first tie cut at twister of tying M1,0:22, 0.37 ,01/05/2022
+14:05,14:21,E&A,E&A,MT,Finishing Area,HMI,"One billet auto chopped,over shoot line 1 (13 m) - HMI",0:16, 0.27 ,01/05/2022
+20:54,21:08,E&A,E&A,MT,Finishing Area,HMI,"One billet auto chopped,over shoot line 2 (13 m) - HMI",0:14, 0.23 ,01/05/2022
+22:48,23:41,MECH,MECH,MT,,Crank Shear,"Crank shear blades Gap opned and caused not proper head cut , the head cut stuck at stand 09 EG and caused cobble tow times - There is small shifting in blades arm",0:53, 0.88 ,01/05/2022
+23:41,01:52,E&A,E&A,MT,,Descaler,Imobilisation still activated from descaler to shear 1 and mill can't be started - Electrical problem,2:12, 2.20 ,01/05/2022
+03:10,04:02,E&A,E&A,MT,,Twin Channel ,Twin Channel  2B didn't make cycles during discharging 2 billets and caused bars accumulation inside without any alarm till the ,0:52, 0.87 ,01/05/2022
+06:24,06:28,E&A,E&A,MT,,Hot Metal Detector ,"Stop rolling - Hot Metal Detector  between S15,16 was flickering",0:04, 0.07 ,02/05/2022
+06:39,06:45,E&A,E&A,MT,,Hot Metal Detector ,"Stop rolling again - Hot Metal Detector  between S15,16 was flickering again",0:06, 0.10 ,02/05/2022
+,,MECH,MECH,MT,,Cold Shear,Accumulated delays for CCL area full - Bars hit in cold shear blade due to top blade down to min gap (go to down position),0:25, 0.42 ,02/05/2022
+,,MECH,MECH,MT,,Chain in Alignment Roller,Mech-team install chain in alignment roller ( saction 1) ,0:10, 0.17 ,02/05/2022
+,,MECH,MECH,MT,,Cold Shear,Accumulative delay ccl area full - Bars stucked at extraction trolly entry cold shear,0:30, 0.50 ,02/05/2022
+,,MECH,MECH,MT,,Cold Shear,Bars hit the upper blade of cold shear in the head cut of the layer - Bars tail comes bended from dividing shear,0:50, 0.83 ,03/05/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine ,Cumulative delays of ccl area full - Tying machine 1 miss the tie from the bigging of the shift and not when the new wire coil installed,0:25, 0.42 ,03/05/2022
+12:34,12:44,E&A,E&A,MT,Finishing Area,HMI,Under shoot line 1 - Optimization failure,0:10, 0.17 ,03/05/2022
+13:25,14:02,MECH,MECH,MT,,Tail Breaker,One billet auto chopped due to cobble from dividing shear L2 to entry cooling bed - Coupling pin of tail braker line 2 was opened,0:37, 0.62 ,03/05/2022
+16:50,17:04,E&A,E&A,MT,Finishing Area,HMI,One billet auto chopped due to the last bar of 41 m under shoot - Optimization failure,0:14, 0.23 ,03/05/2022
+18:27,18:58,MECH,MECH,MT,,Crank Shear,0.5 billet manauly chopped due to small piece carry forward and stuck at entry guide S 09 - Crank shear blades Gap opned again to 5 mm,0:31, 0.52 ,03/05/2022
+,,MECH,MECH,MT,,Cold Shear,Accumulated delays for ccl area full - Bars hit the upper blade of cold shear in the head cut of the layer due to upper blade down to min gap,0:28, 0.47 ,03/05/2022
+00:30,01:29,MECH,MECH,MT,,Crank Shear,"Mill not ready - Mech-team working in shear 1 ,Crank shear blades Gap opned",0:59, 0.98 ,03/05/2022
+04:24,04:43,MECH,MECH,MT,,Cold Shear,CCL area full bars stucked in cold shear - Cold shear changed of position,0:19, 0.32 ,03/05/2022
+,,MECH,MECH,MT,,Cold Shear,Cumulative delays of bars hit the uper cold shear blades and bunded too much short bars created becaus of it cold shear does not cut well so cuting repeated many times during head cut - Cold shear blades gap too small,2:12, 2.20 ,04/05/2022
+13:00,13:44,MECH,MECH,MT,,Cold Shear,Cumulative delays of bars hit the uper cold shear blades and bunded too much short bars created becaus of it cold shear does not cut well so cuting repeated many times during head cut - Cold shear blades gap too small,0:33, 0.55 ,04/05/2022
+19:43,19:55,E&A,E&A,MT,Finishing Area,HMI,One billet auto chooped due to one bar of 13 over shoot L2 - Optimization failure,0:12, 0.20 ,04/05/2022
+08:18,08:41,E&A,E&A,MT,,LHS,"Fast Finishing Block 2 lubrification oil over max level, Fast Finishing Block  stopped / Oil level adjusted by mechanical team but LSH keep sensing high level - Adjust LSH manually by electrical team",0:23, 0.38 ,05/05/2022
+23:33,23:46,MECH,MECH,MT,Finishing Area,Cold Shear,CCL arae full due to due to bars going under roller table of Cold shear - Bottom blade of cold shear not good,0:13, 0.22 ,05/05/2022
+23:54,00:14,E&A,E&A,MT,Finishing Area,HMI,One billet auto chopped due to last bar of 41m under shoot in line 1 - Optimization fuilare,0:20, 0.33 ,05/05/2022
+00:36,00:46,E&A,E&A,MT,Finishing Area,HMI,One billet auto chopped due to last bar of 13m under shoot in line 1 - Optimization fuilare,0:10, 0.17 ,05/05/2022
+02:27,02:33,E&A,E&A,MT,Finishing Area,Vertical Taransfer,CCL area full - BC vertical taransfer alignment unit open and close workingin the same time,0:06, 0.10 ,05/05/2022
+07:09,08:42,MECH,MECH,MT,Mill Area,Looper,"3 cobbles at entry of stand 13, change entry of 13 by the old one / check twister guide gap and rollers / check stands alignement / check again the old entry guide - top entry roller of looper 12 changed by mech team during passes change and there was no enough clearance between looper line and roll",1:33, 1.55 ,06/05/2022
+12:14,12:40,E&A,E&A,MT,,Twin Channel ,Twin Channel  2A didn't make cycle during rolling and caused cobble in CB ,0:26, 0.43 ,06/05/2022
+,,MECH,MECH,MT,Finishing Area,Cold Shear,"Accumulative delays of bad cold shear cut, and doing cycle cut many times - Blades worn out and gap needs to be adjusted",0:42, 0.70 ,06/05/2022
+,,MECH,MECH,MT,Finishing Area,Cold Shear,Cumulative delays of bars stuck in cold shear,0:10, 0.17 ,06/05/2022
+20:00,20:20,E&A,E&A,MT,Finishing Area,All Shears in Cut to Length ,One billet rejected due to mill not ready - All shears in cut to length area was tripped,0:20, 0.33 ,06/05/2022
+20:23,20:51,MECH,MECH,MT,,Crank Shear,One billet manually chopped due to small piece carry forward with head of billet and under shoot in line1 created after removed the piece from entry G09(Optimization failure because we chopped the billet two times) - Bad head cut of crank shear due to its blades gaps was opened,0:28, 0.47 ,06/05/2022
+22:36,22:50,MECH,MECH,MT,,Crank Shear,Two times small pieces carried forward with head of billet and stuck at entry guide S9 and one time cried forward with tail of billet and stuck at entry guide S11(two billets manaully chopped) - Bad head cut of crank shear due to its blades gaps was opened,0:14, 0.23 ,06/05/2022
+14:35,16:15,MECH,MECH,MT,,Crank Shear,Changing bottom eccentric arme of crank shear - Blades gap increased during rolling,1:40, 1.67 ,07/05/2022
+,,MECH,MECH,MT,,Cold Shear,Accumulative delays of cold shear bad head cut - Blades gap not good,0:14, 0.23 ,07/05/2022
+08:02,08:12,MECH,MECH,MT,Mill Area,Lubrication Unit,"One billet rejected ,cooling water rings flow transducer fault - Lubrication unit fault Fast Finishing Block  line 2",0:10, 0.17 ,08/05/2022
+,,MECH,MECH,MT,Mill Area,Lubrication Unit,Fast Finishing Block  2 not reday - Lubrication unit fault line 2,0:23, 0.38 ,08/05/2022
+12:54,13:00,E&A,E&A,MT,Mill Area,Fast Finishing Block ,"Cobble from st 16 to Fast Finishing Block  1 - Fast Finishing Block  1 got trip,limit swich of cvr was bypassed last night by elec team and activated during rolling",0:06, 0.10 ,08/05/2022
+13:00,13:38,E&A,E&A,MT,,Fast Finishing Block ,"Continiouse delay of cobble from stand 16 to CVR1 , BGV stopped - Limit swich of cvr was bypassed last night by elec team and activated during rolling",0:38, 0.63 ,08/05/2022
+15:43,16:06,E&A,E&A,MT,Finishing Area,HMI,"Bar of 42m undershoot in CB 1A at the end of billet, only 3m discharged in CB , the whole bar was straight - Optimisation and tracking problem",0:23, 0.38 ,08/05/2022
+19:35,19:52,E&A,E&A,MT,,CVAH,CVAH preset off than on for less than 3 seconds and caused autochopped / no cobble in the mill,0:17, 0.28 ,08/05/2022
+16:58,17:14,E&A,E&A,MT,,Tail Breaker,1.3 billte auto chopped - TB 2b tripped,0:16, 0.27 ,09/05/2022
+01:17,01:29,E&A,E&A,MT,,CVAH,CVAH2 preset off for less than 3 sec and caused autochopp without any cobble in the mill - Not clear,0:12, 0.20 ,09/05/2022
+08:05,08:15,MECH,MECH,MT,Finishing Area,Tying Machine ,CCL area full due to one bundle going without first tie then caused bended bars - First tie cut at twister of tying M01,0:10, 0.17 ,10/05/2022
+,,E&A,E&A,MT,Furnace Area,Unloading Device,Accumulated delays for gaps inside furnace and lost discharging auto mode - Unloading device not working properly,0:08, 0.13 ,10/05/2022
+,,MECH,MECH,MT,,Cold Shear,Accumulated delays for CCL area full - Bad head cut of cold shear in evry layer due to bottom blade not cuting properlly in middle of blade,0:23, 0.38 ,10/05/2022
+18:00,18:21,E&A,E&A,MT,,DCVRH,One billet rejected - DCVRH line 1 lost of position,0:21, 0.35 ,10/05/2022
+19:04,19:58,E&A,E&A,MT,Mill Area,DCVRH,Mill not reday - ele-team working in DCVRH line 1,0:50, 0.83 ,10/05/2022
+21:43,22:03,E&A,E&A,MT,Finishing Area,HMI,"One bar of 38 m under sjoot in line 1A , around 5m of bar still stright before TB1A - Tracking and HMI",0:20, 0.33 ,10/05/2022
+14:15,14:57,MECH,MECH,MT,Finishing Area,Tying Machine ,CCL area full due to tying M01 set in down position - Plastic coupling between hydrauling pump and motor of tying M01 was damaged,0:42, 0.70 ,12/05/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine ,Accumulative delays for ccl area full - Two tyings machine not enough (TM01 out of service)and some times feedin wire cut at twister of TM02,0:25, 0.42 ,12/05/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine ,Accumulative delays for ccl area full - Two tyings machine not enough (TM01 out of service)and some times feedin wire cut at twister of TM02,0:30, 0.50 ,12/05/2022
+,,E&A,E&A,MT,Finishing Area,Tying Machine ,Accumulated delays for Ccl area full - Tying machine 1 not working properly from previous shift (detector wire H7 contune cinsing),0:08, 0.13 ,13/05/2022
+14:06,14:26,E&A,E&A,MT,,Hot Metal Detector ,Under shoot (87 m) in line one one billet chopped - Hot Metal Detector  18 flickered,0:20, 0.33 ,14/05/2022
+,,E&A,E&A,MT,Finishing Area,Tying Machine,Accumulated of ccl full - Tying Machine  dont work properly,0:05, 0.08 ,14/05/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine ,Accumulative delay ccl area full - TM3 not working properly,0:04, 0.07 ,15/05/2022
+,,E&A,E&A,MT,Furnace Area,Encoder Problem ,Accumulated delays of Furnace charging table stoppages - Encoder problem,1:16, 1.27 ,15/05/2022
+19:46,19:54,E&A,E&A,MT,,Shear 01,Shear 1 autochopping without any cobble detaction or any metal in the line,0:08, 0.13 ,15/05/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine ,Cumulative delays of tyin machine 1 out of service and one roller in tying machine 3 broke ,0:09, 0.15 ,15/05/2022
+12:18,13:00,MECH,MECH,MT,Furnace Area,Charging Door,Gab inside furnace - Charging door chaine damaged,0:42, 0.70 ,16/05/2022
+13:22,13:30,MECH,MECH,MT,,CVR 02,"Fire inside CVR2, under PR Coupeling Electrical motor , one billet rejected - Too much oil and grease",0:08, 0.13 ,16/05/2022
+13:43,13:48,MECH,MECH,MT,,Pneumatic Valve,12M stopper before short bars area remained in down position after transfering short bars - Pneumatic valve damaged,0:05, 0.08 ,16/05/2022
+,,E&A,E&A,MT,Furnace Area,Unloading Device,Accumulated delays for lost auto discharging of billet and gaps iside furnace - Unloading device not working properly,0:12, 0.20 ,17/05/2022
+,,E&A,E&A,MT,Furnace Area,Unloading Device,Accumulated delays for lost auto discharging of billet and gaps iside furnace - Unloading device not working properly,0:05, 0.08 ,17/05/2022
+22:17,00:15,E&A,E&A,MT,Furnace Area,Unloading Device,Accumulated delays of unloading device stops almost every 05 billets - Photocells not cleaned,0:14, 0.23 ,17/05/2022
+20:00,20:51,MECH,MECH,MT,Finishing Area,Cold Shear,Mechanical team continue maintenance activities on cold shear ,0:51, 0.85 ,18/05/2022
+22:46,23:45,E&A,E&A,MT,Mill Area,Hot Metal Detector ,"Cobble in BGV both lines at the same time , metal cut between CVR1 and stand 16 because of tension - Fast Finishing Block  looper L1 and L2 lifting commande signal missed before cobble , even there were looper Hot Metal Detector s signal and BGV torque signel",0:59, 0.98 ,18/05/2022
+,,E&A,E&A,MT,Furnace Area,Unloading Device,Accumulated delays of unloading device stoppages ,0:08, 0.13 ,18/05/2022
+00:56,05:00,E&A,E&A,MT,,Encoder Problem ,"Gaps inside furnace caused by furnace charging table miss alignement , calibration can't be done by operator and bypasse done by Elec team but alignement alarm still and charging table - Encoder problem stops many times ",0:38, 0.63 ,18/05/2022
+,,E&A,E&A,MT,,Encoder Problem ,Gaps inside furnace caused by furnace charging table miss alignement from the brivious shift - Encoder problem,0:28, 0.47 ,19/05/2022
+,,E&A,E&A,MT,,Charging Table,Charging table stopped - Charging table miss alignement,0:03, 0.05 ,19/05/2022
+13:01,14:39,MECH,MECH,MT,Mill Area,Stand 07,Stop rolling due to big leakage water in S 07 - Principal Cooling hose of S 07 damaged,1:38, 1.63 ,19/05/2022
+15:10,15:23,MECH,MECH,MT,Mill Area,Fast Finishing Block ,Mill not ready due to Fast Finishing Block  line 2 not ready - Main delivery oil pressure of bearings in max value,0:13, 0.22 ,19/05/2022
+22:24,23:42,E&A,E&A,MT,,DRM,Cobble from st 04 to shear 01 - DRM 01 tripped,1:18, 1.30 ,19/05/2022
+,,E&A,E&A,MT,Furnace Area,Encoder Problem ,Gaps inside furnace caused by furnace charging table miss alignement - Encoder problem,0:05, 0.08 ,19/05/2022
+10:16,10:36,E&A,E&A,MT,Mill Area,DRM,Stands 15 and 16 stopped - DRM 04 tripped,0:20, 0.33 ,20/05/2022
+11:55,12:37,E&A,E&A,MT,Mill Area,DRM,"Stands 11,12,13,14 stopped - DRM 03 tripped",0:42, 0.70 ,20/05/2022
+,,E&A,E&A,MT,Furnace Area,Transfer Table,Accumulated delays for many gaps inside furnace lost auto discharging billet - Billet transfer table miss alignment,0:20, 0.33 ,20/05/2022
+02:54,04:25,MECH,MECH,MT,,Cold Shear,Stop rolling thick smoke coming from cold shear - Clatch problem,1:31, 1.52 ,20/05/2022
+,,E&A,E&A,MT,Furnace Area,Transfer Table,Accumulated delays for many gaps inside furnace lost auto discharging billet - Billet transfer table miss alignment,0:05, 0.08 ,20/05/2022
+10:18,10:29,E&A,E&A,MT,Mill Area,Hot Metal Detector ,"Alarm of optimisation impossibale, sometimes Fast Finishing Block  looper didn't work and Fast Finishing Block  Hot Metal Detector  vision fault alarm - Hot Metal Detector s problem",0:11, 0.18 ,21/05/2022
+10:55,11:55,E&A,E&A,MT,,Electrovalve Coil Socket,Accumulated delays of wheel stopper go up very slowly - Electrovalve coil socket loosed,0:12, 0.20 ,21/05/2022
+14:54,15:59,E&A,E&A,MT,Finishing Area,Tail Breaker,Cobble from cooling bed to cut to length area in 2B - The bar befor the last bar under shoot and stuck in tail breaker,1:05, 1.08 ,21/05/2022
+16:09,16:33,E&A,E&A,MT,,Transfer Chains,Auto mode missed in transfer chains - Signal not coming,0:24, 0.40 ,21/05/2022
+,,E&A,E&A,MT,Finishing Area,Cold Shear,Cumulative delay of CCL area full - Cold shear uper blade not stable and keep going up and down after the cut,0:07, 0.12 ,21/05/2022
+22:59,23:55,E&A,E&A,MT,,Chain Transfer,CCL area full - Chain transfer #4 continued working without stop Alarm:chain transfer #4:drive communication fault,0:56, 0.93 ,21/05/2022
+14:47,15:08,E&A,E&A,MT,Mill Area,Hot Metal Detector ,Cobble in Fast Finishing Block  2 after 22 - Fast Finishing Block  looper did not work and Hot Metal Detector  15 fleckring,0:21, 0.35 ,22/05/2022
+,,E&A,E&A,MT,Finishing Area,Tying Machine ,Cumulaive delays of CCL area full - Tying machine 1 out of service and one bendle passed without tying,0:05, 0.08 ,22/05/2022
+01:20,01:29,E&A,E&A,MT,Finishing Area,Tying Machine ,Ccl area full - Tying machine 1 stop in down position,0:09, 0.15 ,22/05/2022
+,,E&A,E&A,MT,Furnace Area,Unloading Device,Cumulative delays of gaps inside furnace and discharging - Unloading device stopped many times,0:12, 0.20 ,24/05/2022
+11:53,11:58,MECH,MECH,MT,,Grease Unit,One billet rejected due to the billet stay in descaler water - Grease unit for rolling mill time out in both lines,0:05, 0.08 ,25/05/2022
+,,E&A,E&A,MT,Furnace Area,Unloading Device,Accumulated delays of gaps inside furnace and discharging intrruption - Unloading device stopped many times,0:12, 0.20 ,25/05/2022
+16:50,17:05,E&A,E&A,MT,Finishing Area,HMI,"One billet auto chopped - HMI ,the last bar 24 m after cvah",0:15, 0.25 ,25/05/2022
+13:54,14:44,MECH,MECH,MT,,Twin Channel ,0.25 of billet auto chopped - Head of bar got stuck in Twin Channel  1a,0:50, 0.83 ,26/05/2022
+20:59,21:36,MECH,MECH,MT,,Twin Channel ,One billet auto chopped - Head of last bar got stuck in Twin Channel  1A,0:37, 0.62 ,27/05/2022
+07:14,07:41,MECH,MECH,MT,,Twin Channel ,Cobble from Twin Channel  2A to cut to leagth - Material head bended and stuck inside Twin Channel 2A,0:27, 0.45 ,28/05/2022
+08:55,09:15,E&A,E&A,MT,,Line 1,Autochop in line 1 - material broke,0:20, 0.33 ,28/05/2022
+15:11,15:47,MECH,MECH,MT,,Twin Channel ,Cobble from Fast Finishing Block  1 to Twin Channel  - One bar did not completely discharge from tail Braker and Twin Channel  and the next bar hit it,0:36, 0.60 ,29/05/2022
+19:41,20:00,E&A,E&A,MT,,HMI,Over shoot line 1 the lenght of the bar phisically not the smae in the HMI - No clear resan,0:19, 0.32 ,29/05/2022
+20:00,20:07,E&A,E&A,MT,,HMI,Continue delay from previous shift ,0:07, 0.12 ,29/05/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine ,Accumulative delays of ccl area full - TM 03 out of service,0:18, 0.30 ,29/05/2022
+03:27,03:49,MECH,MECH,MT,,Twin Channel ,A lot of bars stuck in Twin Channel  and caused bad discharging in C B - No clear reson,0:22, 0.37 ,29/05/2022
+03:59,04:10,E&A,E&A,MT,Finishing Area,HMI,One billet autchop and one reject due to the last bar of 36 m under shoot - Optimiztaion problem,0:11, 0.18 ,29/05/2022
+05:24,05:33,E&A,E&A,MT,Finishing Area,HMI,Stop rolling - Over shoot line 01 one bar 13 m one billet rejected,00:09, 0.15 ,30/05/2022
+,,E&A,E&A,MT,,Air Oil Unit,Accumulated delay of air oil line 02 problem - Air oil unit not ok (cycle failed ),00:36, 0.60 ,31/05/2022
+,,E&A,E&A,MT,Furnace Area,Unloading Device,Accumulated delay of gaps inside furnce - Unloading device command time out,00:10, 0.17 ,31/05/2022
+13:46,13:55,MECH,MECH,MT,,Looper 14,"Looper 14 not stable - Looper 14 , toop roller  damaged",0:09, 0.15 ,03/06/2022
+15:05,15:18,MECH,MECH,MT,Finishing Area,Twin Channel ,CCL area full - Bar got stuck at Twin Channel  2b,0:13, 0.22 ,04/06/2022
+18:03,18:06,E&A,E&A,MT,Finishing Area,Hot Metal Detector ,One billet auto chopped due to cobble detected at CB entry L 2b - The last bar of billet discharged near Hot Metal Detector  29,0:03, 0.05 ,05/06/2022
+01:27,01:44,E&A,E&A,MT,Finishing Area,DRA 01,CCL area full - DRA 01 Dc link got trip,0:17, 0.28 ,05/06/2022
+01:41,01:46,E&A,E&A,MT,,CCL Area,CCL area full - One bundle going smaller with 2 layers,0:05, 0.08 ,06/06/2022
+02:11,02:16,E&A,E&A,MT,,CCL Area,CCL area full - One bundle going smaller with 2 layers again,0:05, 0.08 ,06/06/2022
+,,E&A,E&A,MT,Furnace Area,Unloading Device,Accumulated delays gaps inside furnace lost auto discharging - Unloading device not working properly,0:07, 0.12 ,06/06/2022
+06:13,06:26,E&A,E&A,MT,,Hot Metal Detector ,Under shoot line one - Last bar discharged near to Hot Metal Detector ,0:13, 0.22 ,07/06/2022
+13:56,14:07,E&A,E&A,MT,Finishing Area,HMI,One billet auto chopped due to last bar over shoot in line 1 - Optimization failure,0:11, 0.18 ,07/06/2022
+,,E&A,E&A,MT,Furnace Area,Unloading Device,Accumulated delays gaps inside furnace lost auto discharging - Unloading device not working properly,0:08, 0.13 ,07/06/2022
+11:17,11:32,E&A,E&A,MT,,Hot Metal Detector ,One billet auto chopped - One bar was discharged near Hot Metal Detector ,0:15, 0.25 ,08/06/2022
+18:40,18:52,E&A,E&A,MT,Finishing Area,HMI,Last bar of 13 m over shoot in line 2 - Optimization failure,0:12, 0.20 ,08/06/2022
+18:52,,E&A,E&A,MT,Finishing Area,Tying Machine,Cumulative delays of slow rolling  - Bundles go without ties in throuth the Tying Machine  due to PH 7 stay sensing without bendle  ,0:30, 0.50 ,08/06/2022
+19:40,19:55,MECH,MECH,MT,Mill Area,Twin Channel ,Many bars head stuck in Twin Channel  2B - First bar head bended,0:15, 0.25 ,08/06/2022
+07:46,08:00,E&A,E&A,MT,Mill Area,Hot Metal Detector ,One billet auto chopped - Bar was discharged near Hot Metal Detector  ..2b,0:14, 0.23 ,09/06/2022
+09:35,10:01,E&A,E&A,MT,Mill Area,Hot Metal Detector ,One billet auto chopped - Bar was discharged near Hot Metal Detector  ..2a,0:26, 0.43 ,09/06/2022
+14:55,15:03,E&A,E&A,MT,Finishing Area,HMI,Last bar of 9 m over shoot in line 1 - Optimization failure,0:08, 0.13 ,09/06/2022
+,,E&A,E&A,MT,,Stopper,accumulative delay ccl area full - Stopper problem,0:08, 0.13 ,10/06/2022
+00:34,00:46,E&A,E&A,MT,Finishing Area,HMI,Last bar under shoot line 1,0:12, 0.20 ,10/06/2022
+00:43,01:03,E&A,E&A,MT,Furnace Area,Drive,Furnace exit roller table sopped - Drive fault,0:20, 0.33 ,10/06/2022
+08:39,09:08,MECH,MECH,MT,,Twin Channel ,On billet auto chopped due to cobble detection at Twin Channel  1b - Front end of the last bar hit ,0:29, 0.48 ,11/06/2022
+10:44,10:57,E&A,E&A,MT,Finishing Area,HMI,One billet auto chopped due to the last bar of 36 under shoot - HMI,0:13, 0.22 ,11/06/2022
+14:17,14:30,E&A,E&A,MT,Finishing Area,HMI,One billet auo chopped over shoot line 2..13 m - HMI,0:13, 0.22 ,11/06/2022
+04:23,04:31,E&A,E&A,MT,,Lances,CCL area full - Lances lost position,0:08, 0.13 ,11/06/2022
+12:21,12:29,E&A,E&A,MT,Finishing Area,HMI,One billet autochop due to line 1last bar 35meter under shoot - HMI,0:08, 0.13 ,12/06/2022
+12:48,13:00,E&A,E&A,MT,Finishing Area,HMI,One billet autochop due to line 2 last bar 30 meter over shoot - HMI,0:12, 0.20 ,12/06/2022
+18:43,18:51,E&A,E&A,MT,,Hot Metal Detector ,One billet auto chopped due to cobble detected at CB entry L1a - The last bar discharged near than Hot Metal Detector  26,0:08, 0.13 ,12/06/2022
+23:45,23:54,MECH,MECH,MT,Finishing Area,Cooling Bed,Change chaine of alignment roller in CB - Chain damaged,0:09, 0.15 ,12/06/2022
+02:14,02:26,E&A,E&A,MT,Finishing Area,HMI,One billet auto chopped over shoot line 1….9 m - HMI,0:12, 0.20 ,12/06/2022
+04:27,04:31,E&A,E&A,MT,Mill Area,Stopper,CCL area full - Wheeled stopper problem,0:04, 0.07 ,12/06/2022
+15:23,15:34,E&A,E&A,MT,Finishing Area,HMI,The last of 32m under shoot - Optimization not working properly in line 2,0:11, 0.18 ,13/06/2022
+,,E&A,E&A,MT,Finishing Area,HMI,Accumulated delay for slow rolling - Optimization not working properly in line 2,0:06, 0.10 ,13/06/2022
+15:50,16:07,E&A,E&A,MT,Finishing Area,HMI,One billet auto chopped due to the last bar of 10m over shoot - Optimization not working properly in line 2 due to Hot Metal Detector  23 was flickering,0:17, 0.28 ,13/06/2022
+04:38,04:48,E&A,E&A,MT,Finishing Area,HMI,"One billet auto chopped ,The last of 36m under shoot ",0:10, 0.17 ,13/06/2022
+,,E&A,E&A,MT,,HMI,Cumulative delays of interbillets down to less then 1 second - Tracking not worcking properly ,0:05, 0.08 ,14/06/2022
+,,E&A,E&A,MT,Mill Area,Fast Finishing Block ,Cumulative delays of air oil unit of Fast Finishing Block  1 stopped - Cycle failed,0:18, 0.30 ,14/06/2022
+11:02,11:15,E&A,E&A,MT,Mill Area,Drive Trip,Autochopping request from DCVAH 2 - Drive tripped,0:13, 0.22 ,14/06/2022
+,,E&A,E&A,MT,Finishing Area,Allining Roller Trip,CCL FULL - Allining roller trip section 8 and 9,0:06, 0.10 ,14/06/2022
+23:59,00:32,E&A,E&A,MT,Finishing Area,HMI,One billet auto chopped due to the last bar of 37 m under shoot and cobble detected in Fast Finishing Block  line 1 - Optimization failed,0:33, 0.55 ,14/06/2022
+01:57,02:08,E&A,E&A,MT,Finishing Area,HMI,One billet auto chopped due to the last bar of 13 m under shoot and cobble detected in Fast Finishing Block  line 1 - Optimization failed,0:11, 0.18 ,14/06/2022
+02:15,02:46,E&A,E&A,MT,,Hot Metal Detector ,One billet auto chopped due to the last bar under shoot and cobble detected in Fast Finishing Block  line 1 - Hot Metal Detector  of bgv looper line 1 flikering at back end as value going 145,0:31, 0.52 ,14/06/2022
+02:57,03:22,E&A,E&A,MT,,TWS,CCL area full - TWS not working in finishing area,0:25, 0.42 ,14/06/2022
+03:57,04:25,E&A,E&A,MT,,Hot Metal Detector ,One billet auto chopped due to the last bar  of 28 m under shoot and cobble detected in Fast Finishing Block  line 1 - Hot Metal Detector  of bgv looper line 1 flikering at back end as value going 145,0:28, 0.47 ,14/06/2022
+,,E&A,E&A,MT,,Looper,Slow rolling for cheking looper of Fast Finishing Block  l 1 - Looper not stable,0:18, 0.30 ,14/06/2022
+05:00,06:05,E&A,E&A,MT,Mill Area,Table Troll,CCL area full - One proximity of table troll not detecting,1:05, 1.08 ,15/06/2022
+06:42,06:50,E&A,E&A,MT,,Hot Metal Detector ,Under shoot in line 1 - Bar discharged near to Hot Metal Detector ,0:08, 0.13 ,15/06/2022
+,,E&A,E&A,MT,Furnace Area,Unloading Device,Accumulative delay for many gaps insde furnace and lost discharging billet auto - Furnace transfer table beams not aligned many times. Unloading device not working properly (stop under billet).,0:53, 0.88 ,15/06/2022
+,,E&A,E&A,MT,Finishing Area,Unloading Device,Accumulative delay for many gaps insde furnace and lost discharging billet auto - Furnace transfer table beams not aligned many times. Unloading device not working properly (stop under billet).,3:27, 3.45 ,16/06/2022
+20:00,20:19,E&A,E&A,MT,Furnace Area,Furnace,Cumulative delays of gaps - Furnace cycle gap from previous shift,0:19, 0.32 ,16/06/2022
+,,E&A,E&A,MT,Furnace Area,Unloading Device,Accumulative delay for many gaps insde furnace and lost discharging billet auto - Furnace transfer table beams not aligned many times. Unloading device not working properly (stop under billet).,0:32, 0.53 ,16/06/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,Accumulative delay ccl area full - TM1 and 2 not working proprly twisting problem,0:11, 0.18 ,17/06/2022
+11:15,12:26,E&A,E&A,MT,Mill Area,Stand 16,"St 16 didn't come out ,electric work it to fix the problem",1:11, 1.18 ,17/06/2022
+19:15,20:00,MECH,MECH,MT,Mill Area,Stand 15,Material did not enter in stand 15 - Stand 15 turns slowly due to its shear pin  broke,0:45, 0.75 ,17/06/2022
+20:00,20:11,MECH,MECH,MT,Mill Area,Stand 15,Previous shift  delay continue - Mecanical team working in stand 15,0:11, 0.18 ,17/06/2022
+22:22,22:37,E&A,E&A,MT,Finishing Area,HMI,Line 1 . 98 meter bar overshoot - Optimization not working properly,0:15, 0.25 ,17/06/2022
+16:36,16:47,E&A,E&A,MT,Mill Area,Stand 16,Motor of st 16 checking - Bearing overtemperator and mill speed decresed to 85% as per electrical request,0:11, 0.18 ,18/06/2022
+16:14,16:26,E&A,E&A,MT,Finishing Area,HMI,One billet auto chopped due to the last bar of 22m over shoot in L2 - Optimization failed,0:12, 0.20 ,19/06/2022
+16:47,17:32,E&A,E&A,MT,Finishing Area,HMI,One billet auto chopped due to the last bar of 60m over shoot in L1 - Optimization failed,0:45, 0.75 ,19/06/2022
+18:03,18:18,E&A,E&A,MT,Finishing Area,HMI,One billet auto chopped due to the last bar 98m over shoot in L1 - Optimization failed,0:15, 0.25 ,19/06/2022
+20:25,20:50,MECH,MECH,MT,,Twin Channel ,Stop rolling ccl area full - Separating between finger guide was damaged and caused one bar stucked in Twin Channel  1a bended in cooling bed,0:25, 0.42 ,19/06/2022
+01:14,01:28,E&A,E&A,MT,Finishing Area,HMI,One billet auto chopped due to the last bar of 34m over shoot in L2 - Optimization failed,0:14, 0.23 ,19/06/2022
+02:46,03:04,E&A,E&A,MT,Finishing Area,HMI,One billet auto chopped due to the last bar 98m over shoot in L1 - Optimization failed,0:18, 0.30 ,19/06/2022
+03:49,04:04,E&A,E&A,MT,Finishing Area,HMI,One billet auto chopped due to the last bar 98m over shoot in L1 - Optimization failed,0:15, 0.25 ,19/06/2022
+08:41,08:45,E&A,E&A,MT,Finishing Area,Vertical Transfer,Ccl area full - PH02 of vertical transfer still sensing without bundle,0:04, 0.07 ,20/06/2022
+14:01,14:07,E&A,E&A,MT,Finishing Area,Tying Machine ,CCL area full - PH05 before tying M1 still sensing without bundle,0:06, 0.10 ,20/06/2022
+14:53,15:01,E&A,E&A,MT,Finishing Area,Tying Machine ,CCL area full - PH05 before tying M1 still sensing without bundle,0:08, 0.13 ,20/06/2022
+02:48,03:03,MECH,MECH,MT,,Looper,Upper roller of looper 12 changed by mech-team - Roller damaged,0:15, 0.25 ,20/06/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,CCL area full - Tm 1 and 2 not working properly,0:10, 0.17 ,20/06/2022
+,,E&A,E&A,MT,Finishing Area,Tying Machine ,Accumulated dely of ccl area full - Tying machine #02 out of service,0:08, 0.13 ,21/06/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine ,Cumulative delays of CCL area full - TM1 out of service,0:10, 0.17 ,22/06/2022
+,,E&A,E&A,MT,,Stopper,Cumulative delays of CCL area full - The wheel stoppper dont going up fo a moment,0:06, 0.10 ,22/06/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine ,Cumulative delays of CCL area full - Tying machine #02 not working properly,0:12, 0.20 ,22/06/2022
+,,E&A,E&A,MT,,Table Transfer,Cumlative delay of stop rolling - PH of table transfer sectione A not sensine good,0:03, 0.05 ,22/06/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,"CCL area full - TM 1 and 2 not working properly , twister problem",0:10, 0.17 ,23/06/2022
+13:37,13:55,MECH,MECH,MT,,Stopper,CCL area full - Wheeled stopper not working and stopped in down position,0:18, 0.30 ,23/06/2022
+14:13,14:34,MECH,MECH,MT,,Twin Channel ,One billet auto chopped - Front end of bar got hit in cover Twin Channel  1a,0:21, 0.35 ,23/06/2022
+14:52,15:13,MECH,MECH,MT,,Twin Channel ,One billet auto chopped - Front end of bar got hit in cover Twin Channel  1a,0:21, 0.35 ,23/06/2022
+18:16,18:32,E&A,E&A,MT,Finishing Area,HMI,One billet auto chopped over shoot ....09 line 1 - HMI,0:16, 0.27 ,23/06/2022
+18:52,19:02,E&A,E&A,MT,Finishing Area,HMI,One billet auto chopped one bar 98 in cb - HMI,0:10, 0.17 ,23/06/2022
+19:02,19:46,MECH,MECH,MT,,Twin Channel ,"Bar head end hit inside the Twin Channel  line 1A ,check cut to length area and change 3 blad of dcvah line 1",0:44, 0.73 ,23/06/2022
+,,MECH,MECH,MT,,Twin Channel ,Accumulative delay ccl area full - front end of bar hit i Twin Channel  and stucked in cb,0:34, 0.57 ,23/06/2022
+01:24,01:48,MECH,MECH,MT,,Twin Channel ,One billet auto chopped due to one bar over shoot - front end of bar got hit and stucked in cooling bed,0:24, 0.40 ,23/06/2022
+02:25,03:07,MECH,MECH,MT,,Twin Channel ,One billet rejected due to one bar over Shoot - Front end of bar got hit and came out from cooling bed,0:42, 0.70 ,23/06/2022
+,,MECH,MECH,MT,,Twin Channel ,Accumulativ delays for stop rolling - bars hit and came out from cooling bed,1:16, 1.27 ,23/06/2022
+06:21,07:31,MECH,MECH,MT,,Hydraulic Cylinder,Stop rolling for checking tail braker due to bars hit in cooling bed and came out - Braking bolt of hydraulic cylinder TB 1b found opend,1:10, 1.17 ,23/06/2022
+09:37,11:20,MECH,MECH,MT,,Twin Channel ,"Accumulative delay 02 billet auto chopped,under shoot line 1a - front end of bar got hit in flap Twin Channel  1a and came out from cooling bed",1:28, 1.47 ,24/06/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine ,CCL area full - TM 2 not working properly,0:07, 0.12 ,24/06/2022
+23:53,00:04,E&A,E&A,MT,,Hot Metal Detector ,Cobble detected at Fast Finishing Block  line1 in tail of billet - Looper of CVR 1 not stable due to scale created before loop Hot Metal Detector ,0:11, 0.18 ,24/06/2022
+17:17,17:20,E&A,E&A,MT,,Roller Table,Stop rolling - PH of roller table flicker,0:03, 0.05 ,25/06/2022
+10:00,10:10,MECH,MECH,MT,,Tail Breaker,No rolling - Mechanical team working in tail braker,0:10, 0.17 ,26/06/2022
+18:18,18:37,E&A,E&A,MT,Finishing Area,HMI,Under shoot in tb 1b caused one billet autochopped - HMIe last bar (67 m),0:19, 0.32 ,26/06/2022
+18:37,18:50,E&A,E&A,MT,Finishing Area,HMI,Under shoot in tb 1b and tb 1a caused one billet autochopped - HMIe,0:13, 0.22 ,26/06/2022
+19:47,20:00,E&A,E&A,MT,Mill Area,Stands,Problem in stand #13 and #14 - we cant instale new stand,0:13, 0.22 ,26/06/2022
+01:03,01:13,E&A,E&A,MT,Furnace Area,Unloading Device,Unloading device stopped - synchronization lost,0:10, 0.17 ,26/06/2022
+,,E&A,E&A,MT,Furnace Area,Charging Table,Accumulative delay of gap inside furnace - Charging table problem(photocell alngiment),0:20, 0.33 ,27/06/2022
+,,E&A,E&A,MT,Furnace Area,Furnace,Accumulative delay of gap inside furnace - Dsb problem ,0:05, 0.08 ,27/06/2022
+16:15,18:50,E&A,E&A,MT,,DRM Trip,Cobble in all the line - ALL DRM E10 and MCS E20 was tripped,2:35, 2.58 ,28/06/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine ,"CCL area full ,Tm1 out of position - TM1 not working properly",0:09, 0.15 ,28/06/2022
+,,E&A,E&A,MT,Mill Area,Stand 02,Stand 2 can not moving up or down from LCS - Signals  missing on the LCS,0:30, 0.50 ,29/06/2022
+,,E&A,E&A,MT,Finishing Area,HMI,Last bar of 37 m over shoot in line 1 - Optimization failure,0:18, 0.30 ,29/06/2022
+00:17,00:35,E&A,E&A,MT,Finishing Area,HMI,Last bar of 81 m over shoot in line 1 - Optimization failure,0:18, 0.30 ,29/06/2022
+01:01,01:27,E&A,E&A,MT,Finishing Area,HMI,Last bar of 77 m over shoot in line 1 - Optimization failure,0:26, 0.43 ,29/06/2022
+05:11,05:16,E&A,E&A,MT,Mill Area,Stand 13,One billet autochopped - Continuity alarm in sd#13,0:05, 0.08 ,29/06/2022
+,,E&A,E&A,MT,Furnace Area,Furnace,Cumulative delays of furnace autodischarging interruption - No alarm apears,0:08, 0.13 ,30/06/2022
+,,E&A,E&A,MT,Mill Area,PLC,Cumulative delays of instable inter billet time - More than 4 hours we lose 5 second every billet,0:35, 0.58 ,30/06/2022
+,,E&A,E&A,MT,Furnace Area,Furnace (DSB problem),"accumulative delay charging/discharging billet stopped ,gabs inside furnace - Dsb problem",1:17, 1.28 ,01/07/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine ,ccl area full - TM1 twisting problem,0:04, 0.07 ,01/07/2022
+,,MECH,MECH,MT,Furnace Area,Furnace,accumulative delay of gap inside,0:40, 0.67 ,01/07/2022
+14:00,14:15,E&A,E&A,MT,Finishing Area,HMI,"one billet auto chopped ,over shoot line 1 - HMI",0:15, 0.25 ,02/07/2022
+,,E&A,E&A,MT,Furnace Area,Unloading Device,accumulative delay of gaps inside furnce - unlooding device transfer time out,0:05, 0.08 ,02/07/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine ,ccl aea full - tm 2 out of service,0:15, 0.25 ,02/07/2022
+11:57,12:07,MECH,MECH,MT,Mill Area,Stand 13,stop rolling - spindle support of stand 13 unloked,0:10, 0.17 ,04/07/2022
+15:22,15:32,MECH,MECH,MT,Mill Area,Stand 13,half billet autochopped - spindle support of stand 13 unlocked,0:10, 0.17 ,04/07/2022
+13:01,13:26,MECH,MECH,MT,,C-HOOK 141,hooks not available - c hook 141 loose position,0:25, 0.42 ,15/08/2022
+13:38,13:45,E&A,E&A,MT,Finishing Area,Cooling Conveyor,cc stopped 1 billet chopped,0:07, 0.12 ,15/08/2022
+15:32,15:52,MECH,MECH,MT,Finishing Area,Pit Hands,pit area prblem - easy down brake didnt work properly,0:20, 0.33 ,15/08/2022
+16:14,16:18,E&A,E&A,MT,Finishing Area,Transfer Car,slow rolling - transfer car lost position,0:04, 0.07 ,15/08/2022
+18:30,18:42,E&A,E&A,MT,Furnace Area,Furnace,furnace problem,0:12, 0.20 ,15/08/2022
+18:55,18:59,MECH,MECH,MT,Finishing Area,Pit Hands,one billet chopped - pit hands didnt open,0:04, 0.07 ,15/08/2022
+21:07,21:51,MECH,MECH,MT,Finishing Area,Easy Down Forks Position Problem,"cooling conveyor stopped metal stuck in pit, hands didnt open - easy down fork lost position",0:44, 0.73 ,15/08/2022
+22:06,22:36,MECH,MECH,MT,Finishing Area,Easy Down Forks Position Problem,cooling conveyor stopped - easy down fork lost position,0:30, 0.50 ,15/08/2022
+22:53,23:01,MECH,MECH,MT,Finishing Area,Easy Down Forks Position Problem,stop rolling rquested from mechanical team - easy down fork didnt work properly,0:08, 0.13 ,15/08/2022
+06:17,06:27,MECH,MECH,MT,Finishing Area,Easy Down Forks Position Problem,"cc stopped 1 billet chopped ,1 rejected - easy down fork didnt work properly",0:10, 0.17 ,15/08/2022
+07:54,08:00,E&A,E&A,MT,Finishing Area,Rotating Table,"cc stopped 0,5 billet chopped - rotating table lost position",0:06, 0.10 ,15/08/2022
+12:08,12:33,E&A,E&A,MT,Finishing Area,Cooling Conveyor,front end coil stuck in cooling conveyor,0:25, 0.42 ,16/08/2022
+23:07,23:26,E&A,E&A,MT,Finishing Area,Cooling Conveyor,stop rolling due to cc stopped - tail of coil stucked between cc rollers,0:09, 0.15 ,16/08/2022
+00:00,00:07,MECH,MECH,MT,Finishing Area,Pit Hands,"0,5 billet chopped and 01 rejected - pit hands didn't oppened",0:07, 0.12 ,16/08/2022
+00:28,00:41,MECH,MECH,MT,Finishing Area,Pit Hands,01 billet chopped - pit hands didn't oppened,0:13, 0.22 ,16/08/2022
+04:05,04:09,E&A,E&A,MT,Finishing Area,Cooling Conveyor,01 billet chopped due to cc stopped - tail of coil stucked in rotary,0:04, 0.07 ,16/08/2022
+,,MECH,MECH,MT,Mill Area,Easy Down Forks Position Problem,"accumulative delay, auto discharging lost - easy down can't reach down position",0:07, 0.12 ,16/08/2022
+07:32,07:40,MECH,MECH,MT,Finishing Area,Pit Hands,01 billet chopped - pit hands didn't oppened,0:08, 0.13 ,16/08/2022
+07:40,08:00,E&A,E&A,MT,Finishing Area,Easy Down Forks Position Problem,no rolling - easy down position lost,0:20, 0.33 ,16/08/2022
+08:00,08:29,E&A,E&A,MT,Mill Area,Easy Down Forks Position Problem,previous shift delay continue easy down lost position - easy down position lost,0:29, 0.48 ,17/08/2022
+08:29,08:58,MECH,MECH,MT,Mill Area,Easy Down Forks Position Problem,easy down position lost,0:29, 0.48 ,17/08/2022
+,,MECH,MECH,MT,Finishing Area,Pit Hands,accumulative delay - pit hands didn't oppened,0:20, 0.33 ,17/08/2022
+04:57,05:00,MECH,MECH,MT,Finishing Area,Pit Hands,one billet chopped due to cc stopped - pit hands didn't oppened,0:03, 0.05 ,17/08/2022
+07:50,08:00,E&A,E&A,MT,Mill Area,Fast Finishing Block ,bgv was not ready - drive time out,0:10, 0.17 ,17/08/2022
+23:01,23:14,E&A,E&A,MT,Mill Area,Easy Down Forks Position Problem,"Stop rolling. 0,4 billet chop. - Eazy down forks position problem.",0:12, 0.20 ,18/08/2022
+02:15,02:35,E&A,E&A,MT,,C-HOOK,"Stop rolling. No hooks avialable. - Auto-mode missing in trimming area, working manually.",0:19, 0.32 ,18/08/2022
+03:05,03:28,E&A,E&A,MT,,C-HOOK,"Stop rolling. No hooks avialable. - Auto-mode missing in trimming area, working manually.",0:22, 0.37 ,18/08/2022
+07:38,07:48,MECH,MECH,MT,Finishing Area,Pit Hands,Stop rolling. CC stop 1 billet chopped. - Pit hands not open.,0:10, 0.17 ,18/08/2022
+,,E&A,E&A,MT,Mill Area,Easy Down Forks Position Problem,Accumulitive delay. - Eazy down forks position problem.,0:17, 0.28 ,18/08/2022
+10:18,10:30,E&A,E&A,MT,,Rotating Table,Rotating table lost position - rotating table encoder tacke too much time to made reset of position,0:12, 0.20 ,19/08/2022
+11:09,11:35,MECH,MECH,MT,Finishing Area,Pit Hands,cooling conveyor stopped 1 billet chopped - forck lost position and pit hands didnt open,0:26, 0.43 ,19/08/2022
+13:41,14:27,E&A,E&A,MT,Finishing Area,Cooling Conveyor,cooling conveyor stopped and easy down turned off - easy down forck switches fault due to proxy domage,0:46, 0.77 ,19/08/2022
+21:06,21:16,MECH,MECH,MT,,Looper,No rolling. Requast from mechanical team to stop rolling. - Cooling water leckage of looper01.,0:10, 0.17 ,19/08/2022
+23:57,00:12,MECH,MECH,MT,Finishing Area,Pit Hands,"Stop rolling. 1,2 billet chopped. - Pit hands did't open.",0:15, 0.25 ,19/08/2022
+03:46,03:59,MECH,MECH,MT,Finishing Area,Pit Hands,"Stop rolling. 1,3 billet chopped. - Pit hands did't open.",0:12, 0.20 ,19/08/2022
+05:04,05:10,MECH,MECH,MT,Finishing Area,Pit Hands,Stop rolling. 1 billet chopped. - Pit hands did't open.,0:06, 0.10 ,19/08/2022
+08:05,08:11,MECH,MECH,MT,Finishing Area,Compacting Machine,no hook available in finishing area - compacting machine was not working,0:06, 0.10 ,20/08/2022
+08:17,10:17,E&A,E&A,MT,Furnace Area,Unloding Device,"no rolling, furnace emty - unloding device proximity brocken due to photocell doesn't detect the billet",2:00, 2.00 ,20/08/2022
+18:49,19:09,MECH,MECH,MT,,Coopling,"no rolling, bgv wasn't ready - coopling S8-10 UNKOWN position",0:20, 0.33 ,20/08/2022
+20:15,20:40,E&A,E&A,MT,Finishing Area,Cooling Conveyor,"cooling convoyor full, easy down position missed - easy down break not working properly",0:25, 0.42 ,21/08/2022
+07:38,07:42,E&A,E&A,MT,Mill Area,Hot Metal Detector ,stop rolling - Hot Metal Detector  between stands 5 and 6 didn't detect the head of billet,0:04, 0.07 ,24/08/2022
+10:28,10:33,MECH,MECH,MT,Finishing Area,Pit Hands,"cc stopped, 01 billet chopped - pit hands didn't open",0:05, 0.08 ,25/08/2022
+11:12,11:17,E&A,E&A,MT,,TFH,cc stopped - coil head discharging was bad,0:05, 0.08 ,25/08/2022
+13:55,14:25,MECH,MECH,MT,Finishing Area,Cooling Conveyor,"rolling stopped, fire in ccoling convoyor area - big quantity of grease in that place",0:30, 0.50 ,25/08/2022
+08:54,09:01,MECH,MECH,MT,Finishing Area,Pit Hands,"cooling conveyor stopped ,1 billet chopped - pit hands didnt open",0:07, 0.12 ,26/08/2022
+19:39,20:00,MECH,MECH,MT,Finishing Area,Pit Hands,"cooling conveyor stopped ,1 billet chopped - pit hands didnt open",0:21, 0.35 ,26/08/2022
+02:05,02:18,MECH,MECH,MT,Finishing Area,Pit Hands,"cooling convoyer stopped , 0,5billet chopped - pit hands didnt open",0:13, 0.22 ,26/08/2022
+04:39,04:42,MECH,MECH,MT,Finishing Area,Pit Hands,"cooling conveyer stopped , 1 billet chopped - pit hands didnt open",0:03, 0.05 ,26/08/2022
+00:02,00:15,E&A,E&A,MT,Mill Area,Intermaidiate,rolling stopped - intermaidiate mill immobilization active,0:13, 0.22 ,28/08/2022
+01:45,01:55,MECH,MECH,MT,Finishing Area,Cooling Conveyor,"cc stopped, 01 billet chopped - ring head were bad stucked in ccoling convoyor",0:10, 0.17 ,28/08/2022
+13:13,13:20,MECH,MECH,MT,,SPR,"stop rolling,accumulator pressure (P3) warning - the P3 pressure over 6 bar",0:07, 0.12 ,29/08/2022
+02:04,03:29,MECH,MECH,MT,Finishing Area,Pit Hands,"cc stopped, half billet chopped - pit hands didn't open",1:25, 1.42 ,29/08/2022
+13:57,14:24,E&A,E&A,MT,,TFH,"first billet taken after pass change , bad discharging on cooling conveyer - synchronisation problem",0:27, 0.45 ,31/08/2022
+17:41,17:53,E&A,E&A,MT,Finishing Area,HMI,cobble detected at exit CB - Overshoot line 01 (bar 73 m),0:12, 0.20 ,01/09/2022
+18:18,18:30,E&A,E&A,MT,Finishing Area,HMI,cobble detected at exit CB - Overshoot line 01 (bar 85 m),0:12, 0.20 ,01/09/2022
+00:27,00:41,E&A,E&A,MT,Finishing Area,Cut To Length,one billet autochopped - over shoot line 01,0:14, 0.23 ,01/09/2022
+05:01,05:12,E&A,E&A,MT,,Hot Metal Detector ,"one billet autochopped, - over shoot line 02, Hot Metal Detector  28 flicker",0:11, 0.18 ,01/09/2022
+,,E&A,E&A,MT,,Cooling Bed,accumaltive delay CCL Area Full - cooling bed trolly sections miss synchronisation,0:06, 0.10 ,01/09/2022
+13:33,13:39,E&A,E&A,MT,Mill Area,Stand 14,stop rolling - Bevel Gear Box lubrication of stand 14 fault,0:06, 0.10 ,02/09/2022
+21:39,21:51,MECH,MECH,MT,Mill Area,Fast Finishing Block ,mill not ready - level of accumulator of Fast Finishing Block  line 02 not ok,0:12, 0.20 ,02/09/2022
+06:36,07:00,E&A,E&A,MT,,Cold Shear,ccl area full - cold shear cycle time out,0:24, 0.40 ,02/09/2022
+,,E&A,E&A,MT,Finishing Area,Tying Machine ,Accumulated delays of ccl full - Tying Machine  dont work properly,0:06, 0.10 ,02/09/2022
+,,MECH,MECH,MT,,Looper,change rollers of looper 11 by mech - rollers damaged,0:15, 0.25 ,03/09/2022
+,,E&A,E&A,MT,Finishing Area,Cold Shear,ccl area full - cold shear problem,0:13, 0.22 ,03/09/2022
+22:57,23:03,E&A,E&A,MT,Finishing Area,Tying Machine ,Ccl area full - PH 05 before tying machine 1 continue sinsing,0:06, 0.10 ,03/09/2022
+06:31,06:57,MECH,MECH,MT,Finishing Area,Extraction Trolly,Ccl area full - One oil hose of CB extraction trolly was damaged and caused big oil leakage,0:26, 0.43 ,03/09/2022
+20:59,21:21,E&A,E&A,MT,,Hot Metal Detector ,cobble detected at exit CB due to over shoot in both lines - Fast Finishing Block  line 1 loop height going to 150 % and caused material broken (more scale found before Hot Metal Detector  screen),0:22, 0.37 ,04/09/2022
+01:35,01:43,E&A,E&A,MT,Furnace Area,Furnace,10 cycle gaps insde furnace - PH of furnace charging table not sinsing bille,0:08, 0.13 ,04/09/2022
+02:13,02:24,E&A,E&A,MT,Finishing Area,HMI,one billet auto chopped due to one bar of 24 m over shoot - HMI,0:11, 0.18 ,04/09/2022
+07:23,07:45,MECH,MECH,MT,Finishing Area,Twin Channel ,one billet auto chopped due to one under shoot in L 2b - one bar stucked at Twin Channel  2b and caused cobble at CB,0:22, 0.37 ,04/09/2022
+09:47,10:10,E&A,E&A,MT,Mill Area,Hot Metal Detector ,over shoot line2 cause on billet autochopped - Hot Metal Detector  25 and 29 flickred,0:23, 0.38 ,05/09/2022
+16:42,17:10,E&A,E&A,MT,,Hot Metal Detector ,undershoot caused cobble from cut to lenght to Fast Finishing Block  line 01 - one bar discharged near the Hot Metal Detector ,0:28, 0.47 ,05/09/2022
+18:36,18:47,E&A,E&A,MT,,Hot Metal Detector ,undershoot ine line 02 caused one billet autochopped - one bar decharge nearHot Metal Detector  28,0:11, 0.18 ,05/09/2022
+,,E&A,E&A,MT,,Bundling Area,Accumulated delays for ccl area full - PH 05 continous sensing,0:07, 0.12 ,05/09/2022
+,,E&A,E&A,MT,Finishing Area,Cold Shear,Accumulated delays for ccl area full - cold shar blade missing position,0:06, 0.10 ,05/09/2022
+09:35,09:40,E&A,E&A,MT,Mill Area,Stand 14,stop rolling - Bevel Gear Box lubrication of stand 14 fault,0:05, 0.08 ,06/09/2022
+18:35,18:45,E&A,E&A,MT,Finishing Area,HMI,under shoot ( the last bar are 26m) caused one billet autochopped - HMI in line 02,0:10, 0.17 ,06/09/2022
+18:46,18:58,E&A,E&A,MT,Finishing Area,HMI,under shoot (the last bar are 27m) caused one billet autochopped - HMI in line 01,0:12, 0.20 ,06/09/2022
+19:43,20:00,MECH,MECH,MT,Mill Area,Stand 05,stop rolling - shower of Stand 05 fall down from the base,0:17, 0.28 ,06/09/2022
+,,E&A,E&A,MT,Furnace Area,Furnace,Accumulated delays of some stoppage caused by ph of roller table in charging area - ph section A not sensing good,0:06, 0.10 ,06/09/2022
+20:00,20:07,MECH,MECH,MT,Mill Area,Stand 05,continue fixing cooling water pipe of stand 5,0:07, 0.12 ,06/09/2022
+08:13,08:28,E&A,E&A,MT,Finishing Area,Vertical Transfer,CCL area full - Vertical and all chains transfer of bundling area lost its synchrolization,0:15, 0.25 ,07/09/2022
+23:16,23:28,E&A,E&A,MT,Finishing Area,HMI,"one billet auto chopped ,over shoot line 1 ( Bar of 9 m) - HMI",0:12, 0.20 ,07/09/2022
+11:29,11:32,E&A,E&A,MT,,Hot Metal Detector ,Stop rolling - Hot Metal Detector  28 was flikring,0:03, 0.05 ,08/09/2022
+13:00,13:12,MECH,MECH,MT,,Pinch Roll,Stop rolling - Big oil leakage at pinch roll 0 before stand 01,0:12, 0.20 ,08/09/2022
+22:24,22:42,MECH,MECH,MT,,Snap Shear,Fast Finishing Block  2 not ready - snap shear not opened,0:18, 0.30 ,08/09/2022
+18:10,18:40,E&A,E&A,MT,Finishing Area,Cold Shear,cold shear blade Problem - blade limit switch not detecting,0:30, 0.50 ,09/09/2022
+18:40,18:55,MECH,MECH,MT,,Tail Breacker,continue changing tail breacker coupling by mechanichal team,0:15, 0.25 ,09/09/2022
+20:09,20:19,E&A,E&A,MT,Finishing Area,Cold Shear,"stop rolling ,ccl area full - cold shear cycle time out",0:10, 0.17 ,09/09/2022
+20:29,22:05,E&A,E&A,MT,Finishing Area,Cold Shear,ccl area full colde shear problem - layer hit the cold shear blade and go out of the roller table,1:36, 1.60 ,09/09/2022
+,,E&A,E&A,MT,Finishing Area,Cold Shear,Accumulated delays of ccl area full - cold shear cycle time out,0:20, 0.33 ,09/09/2022
+,,E&A,E&A,MT,Finishing Area,Tying Machine ,Accumulated delays of ccl area full - Tying Machine not working properly,0:10, 0.17 ,10/09/2022
+15:07,15:17,MECH,MECH,MT,Finishing Area,Cooling Bed,installe chain roller alignment section 1 - too mush bars stucked in cb,0:10, 0.17 ,11/09/2022
+16:56,18:03,MECH,MECH,MT,,Twin Channel ,cobble in Fast Finishing Block 1 to cut to length and Twin Channel  line 1 - front end of bar got stuck in Twin Channel  1b,1:05, 1.08 ,11/09/2022
+,,E&A,E&A,MT,Mill Area,Looper,Slow rolling - Looper after Stand 14 not stable,0:14, 0.23 ,11/09/2022
+06:37,07:07,E&A,E&A,MT,,Cold Shear,Ccl area full - Control screen of cold shear area not working,0:27, 0.45 ,11/09/2022
+16:16,16:40,MECH,MECH,MT,,Twin Channel ,ccl area full - bar stucked in finger guide Twin Channel ,0:24, 0.40 ,12/09/2022
+19:01,19:16,E&A,E&A,MT,Finishing Area,HMI,"one billet auto chopped ,over shoot 14 m line 2 - HMI",0:15, 0.25 ,12/09/2022
+,,E&A,E&A,MT,Finishing Area,Tying Machine ,cumulative delays of tying machine 2 not working properly,0:10, 0.17 ,13/09/2022
+15:03,15:46,MECH,MECH,MT,Mill Area,Stand 14,stand 14 stopped and caused one billet autochpped - shaft connecting unit of stand 14 move frome the right position,0:43, 0.72 ,14/09/2022
+18:15,18:30,MECH,MECH,MT,,Snap Shear,no rolling - snap shear of Fast Finishing Block  line 02 not getting open,0:15, 0.25 ,14/09/2022
+01:25,02:09,MECH,MECH,MT,,Twin Channel ,cobble from Fast Finishing Block 2 to Twin Channel  - bar head bended in Twin Channel  2B,0:44, 0.73 ,14/09/2022
+05:43,06:09,MECH,MECH,MT,,Twin Channel ,cobble from dividing shear to Twin Channel  2A - bar head bended in Twin Channel  2A,0:26, 0.43 ,14/09/2022
+11:39,11:53,MECH,MECH,MT,,Snap Shear,One billet auto - Fast Finishing Block  line 1 snap shear closing without any alarm,0:14, 0.23 ,15/09/2022
+13:29,14:38,E&A,E&A,MT,Finishing Area,Bundling Area,CCl area full - Two bundles going without weight (system problem),0:09, 0.15 ,15/09/2022
+03:04,03:14,E&A,E&A,MT,Finishing Area,Bundling Area,"ccl area full - DC ling ,lubrication and hydraulice system detedted fault in finishing",0:10, 0.17 ,15/09/2022
+05:40,05:53,MECH,MECH,MT,Finishing Area,Cooling Bed,"half billet auto chopped ,cobble detected in cb - front end of bar got hit in cb",0:13, 0.22 ,15/09/2022
+11:31,11:34,E&A,E&A,MT,Finishing Area,TWS,Ccl area full - TWS of finishing area not working,0:13, 0.22 ,16/09/2022
+19:03,19:07,E&A,E&A,MT,Finishing Area,Chain Transfer 04,Ccl area full - BC 02 chain transfer 04 tripped,0:04, 0.07 ,16/09/2022
+,,MECH,MECH,MT,Finishing Area,Cold Shear,ccl area full - pusher of colde shear problem,0:10, 0.17 ,16/09/2022
+20:54,21:04,E&A,E&A,MT,,Pinch Roll,mill not ready - PR 2 line 1 drive warning,0:08, 0.13 ,16/09/2022
+16:28,16:36,MECH,MECH,MT,Finishing Area,Cold Shear,Bundling Area cold shear pusher stopped - pusher chain loosed,0:08, 0.13 ,17/09/2022
+17:29,17:44,E&A,E&A,MT,Finishing Area,HMI,Cut To Length bar of 9 m over shoot in line one Area - optimization failure,0:15, 0.25 ,17/09/2022
+17:56,18:08,E&A,E&A,MT,Finishing Area,Cold Shear,Bundling Area cold shear stopped - MCC fault,0:12, 0.20 ,17/09/2022
+19:00,19:07,MECH,MECH,MT,Finishing Area,Bundling Area,Bundling Area pusher support broke - mechanical team welded it,0:07, 0.12 ,17/09/2022
+19:50,20:00,MECH,MECH,MT,Mill Area,Stand 14,Finishing Mill stand 14 stopped - shaft connection unit unknown position,0:10, 0.17 ,17/09/2022
+20:00,20:12,MECH,MECH,MT,Mill Area,Stand 14,Finishing Mill stand 14 stopped - shaft connection unit unknown position,0:12, 0.20 ,17/09/2022
+10:30,10:45,MECH,MECH,MT,Furnace Area,Furnace,furnace not ready - furnace shutdown due to Air conector damaged,0:15, 0.25 ,19/09/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,"Accumulated delays for ccl area full - tying machens 2,3 not working properly",0:15, 0.25 ,20/09/2022
+,,E&A,E&A,MT,Finishing Area,Tying Machine,accumulative delays of ccl area full - tying machine problem,0:10, 0.17 ,21/09/2022
+,,MECH,MECH,MT,Finishing Area,Transfert Chains 04 trip,accumulative delays of ccl area full - transfert chains 04 trip,0:05, 0.08 ,21/09/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,CCL area full - taying machine 1 out of service and the second not working properly,0:54, 0.90 ,21/09/2022
+08:00,08:13,E&A,E&A,MT,Finishing Area,Finishing,ccl area full - all finishing area switched off,0:13, 0.22 ,22/09/2022
+,,MECH,MECH,MT,Finishing Area,Cold Shear,"accumulative delays of ccl area full - cold shear mcc fault , auto mode lossed",0:05, 0.08 ,22/09/2022
+17:44,17:50,E&A,E&A,MT,,Looper,Stop rolling - Looper of CVR line 1 not stable,0:06, 0.10 ,23/09/2022
+05:58,06:07,E&A,E&A,MT,Finishing Area,Bundling Area,ccl area full - wheeled stopper problme,0:09, 0.15 ,23/09/2022
+11:58,132:03,E&A,E&A,MT,,Looper,Stop rolling - Looper of CVR line 1 not stable,0:05, 0.08 ,24/09/2022
+13:35,14:26,MECH,MECH,MT,Finishing Area,Tying Machine,accumulated delays for Ccl area full - Tying machine 2 not working properly due to entry wire guide was damaged,0:12, 0.20 ,24/09/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,Accumulated delays for ccl area full - Tying machine 2 not working properly due flap C22 open late call elec and mech teams,0:30, 0.50 ,24/09/2022
+04:35,04:39,E&A,E&A,MT,Finishing Area,PLC,ccl area full - PLC communication fault,0:04, 0.07 ,24/09/2022
+,,E&A,E&A,MT,Finishing Area,Tying Machine ,Accumulated delays for ccl area full - Tying machine 2 not working properly due flap C22 open late call elec and mech teams,0:10, 0.17 ,24/09/2022
+20:00,22:36,E&A,E&A,MT,,Twin Channel ,mill not ready to roll - postion of Twin Channel  2A section 1 not good,2:36, 2.60 ,25/09/2022
+03:58,04:18,MECH,MECH,MT,Finishing Area,Tail Breacker,one bar overchoot caused one billet autochopped and one billet rejected - tail braker 2A don't close,0:20, 0.33 ,25/09/2022
+04:19,05:02,MECH,MECH,MT,Finishing Area,Tail Breacker,one bar overchoot caused one billet autochopped and one - tail braker 2A don't close,0:43, 0.72 ,25/09/2022
+14:00,14:24,E&A,E&A,MT,Furnace Area,Furnace,gap inside furnace - one billet bended in elevator,0:24, 0.40 ,26/09/2022
+,,E&A,E&A,MT,Furnace Area,Furnace,cumulative delays of billet stop on hot roller table and charging table section 3,0:53, 0.88 ,26/09/2022
+07:01,07:17,E&A,E&A,MT,Finishing Area,CVAH,over shoot in line two caused one bille autochopped - cobble detection in cvah,0:16, 0.27 ,26/09/2022
+12:11,12:20,E&A,E&A,MT,Finishing Area,Lances,ccl area full bars stucked in vertical transfert - lances st 2 problem,0:09, 0.15 ,27/09/2022
+12:20,12:34,MECH,MECH,MT,Finishing Area,Vertical Transfer,ccl area full - cover in vertical transfert fell down,0:14, 0.23 ,27/09/2022
+10:19,10:39,E&A,E&A,MT,Finishing Area,Cold Shear,"ccl area full - cold shear going time out ,lubrication unit lost auto and standby pump not available",0:20, 0.33 ,28/09/2022
+20:29,20:40,E&A,E&A,MT,Finishing Area,HMI,over shoot line2 (25 m ) - bar detected in exit of coolig bed ( HMI ),0:11, 0.18 ,29/09/2022
+08:11,16:40,E&A,E&A,MT,,Motor Electric of Dividing Shear,deviding shear line 01 drive motore got tripped ; one billet autochopped - motor electric of dividing shear was burned out,8:29, 8.48 ,30/09/2022
+17:00,17:08,E&A,E&A,MT,Finishing Area,HMI,one bar of 9 m caused ouver shoot in line1 - HMI,0:08, 0.13 ,30/09/2022
+19:39,19:55,E&A,E&A,MT,,Hot Metal Detector ,over shoot caused one billet autochopped ine line 02 - Hot Metal Detector  29 flicker,0:16, 0.27 ,30/09/2022
+01:00,01:13,E&A,E&A,MT,Finishing Area,Cut To Length,under shoot in line 02 - last bar with 60 m discharged in the entry of cb,0:13, 0.22 ,30/09/2022
+05:25,05:40,E&A,E&A,MT,Finishing Area,Cut To Length,under shoot in line 02 - last bar with 59 m discharged in the entry of cb,0:15, 0.25 ,30/09/2022
+11:02,11:12,E&A,E&A,MT,,Hot Metal Detector ,one billet auto chopped due to cobble detection at CB entry - the last bar dischrgeed near than Hot Metal Detector  28 of line 2A,0:10, 0.17 ,01/10/2022
+12:31,12:39,E&A,E&A,MT,Finishing Area,DC Link,Ccl area full - DC link of finishing area not ready,0:08, 0.13 ,01/10/2022
+22:31,22:40,MECH,MECH,MT,,Twin Channel ,stop rolling - bar got hit in Twin Channel ,0:09, 0.15 ,01/10/2022
+06:35,06:44,MECH,MECH,MT,Finishing Area,Bundling Area,change roller alignment chaine of Bundling area by mech-team,0:09, 0.15 ,01/10/2022
+08:00,08:26,E&A,E&A,MT,Finishing Area,Cold Shear,Ccl area full - upper blade of cold shear set in down position(auto mode) than caused front end of layer hit it,0:26, 0.43 ,02/10/2022
+10:44,10:59,E&A,E&A,MT,,DCVAH Line 02 Drive,One billet Auto chopped line 02 - DCVAH line 02 drive got trip and caused Cobble in CB,0:14, 0.23 ,03/10/2022
+17:30,19:15,E&A,E&A,MT,Finishing Area,Cold Shear,CCL Area almost Full - DC Link finishing Tripped ; layer 212 bars and stucked in under of cold shear which cant cut it,1:45, 1.75 ,03/10/2022
+19:43,19:52,E&A,E&A,MT,Finishing Area,DC Link,CCL Area Full - DC link of vertical transfert got tripped,0:09, 0.15 ,03/10/2022
+,,E&A,E&A,MT,Finishing Area,Bundling Area,accumulative delay of CCL area Full - removing short bars caused by rolls allimnet section 04 timout,0:23, 0.38 ,03/10/2022
+,,E&A,E&A,MT,Furnace Area,Furnace,accumulative delay of gaps inside furnce - drive of charging roller table section got trip,0:17, 0.28 ,03/10/2022
+,,E&A,E&A,MT,Furnace Area,Furnace,accumulated delays of gaps inside furnce - ph of roller table in charging area not sensing good,0:05, 0.08 ,04/10/2022
+,,E&A,E&A,MT,Furnace Area,Furnace,accumulated delays of gaps inside furnce - drive of charging roller table section A trip,0:05, 0.08 ,04/10/2022
+04:03,04:15,E&A,E&A,MT,,Twin Channel ,1.5 billet auto chopped - Twin Channel  1b tripped,0:12, 0.20 ,05/10/2022
+11:45,11:58,MECH,MECH,MT,Mill Area,Stand 07,stop rolling - stand 07 spindel support not ok,0:13, 0.22 ,07/10/2022
+16:04,17:45,MECH,MECH,MT,Mill Area,Stand 15,"stop rolling - bottom bearing of Stand 15 too much hot , grease lubrication not coming from the base to stand 15",1:41, 1.68 ,07/10/2022
+07:19,07:29,E&A,E&A,MT,Finishing Area,Cut To Length,Over Shoot line 01 - cobble detected in exit of CB in the last bar,0:10, 0.17 ,07/10/2022
+07:43,07:57,E&A,E&A,MT,Finishing Area,Transfert Table Chain Trip,CCL Area Almost full - transfert table chain Tripped,0:14, 0.23 ,07/10/2022
+08:33,08:50,E&A,E&A,MT,,Hot Metal Detector ,"one billet autochopped both line - alarm coming : Hot Metal Detector  18 , 19 and 22 vision fault",0:17, 0.28 ,08/10/2022
+,,MECH,MECH,MT,Mill Area,Stand 13,accumulated delay of stand 13 spindel support not ok,0:15, 0.25 ,08/10/2022
+04:00,04:15,E&A,E&A,MT,Mill Area,Stand 10,cobble after stand 10 - two billet come closer due to interbillet reduced to 0.3 sec ( set 5 sec),0:15, 0.25 ,08/10/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,Accumulated delays for ccl area full - Tying Machine out of service( request from Mech team),0:12, 0.20 ,09/10/2022
+00:27,00:36,E&A,E&A,MT,Mill Area,Stand 14,stand 14 horizontal gearbox lubrication min oil flow,0:09, 0.15 ,09/10/2022
+,,E&A,E&A,MT,Finishing Area,Tying Machine,accumulativ delay ccl erea full - tying machine out of service ( wire of 3 tying machine cut ),0:45, 0.75 ,09/10/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,accumulativ delay ccl erea full - tying machine out of service ( wire of 3 tying machine cut ),0:42, 0.70 ,09/10/2022
+05:40,06:20,MECH,MECH,MT,,Twin Channel ,one bar stuck in Twin Channel  1A and 1B,0:40, 0.67 ,10/10/2022
+06:48,07:00,E&A,E&A,MT,Finishing Area,Cut To Length,one billet auto chopped due to over shoot 1A,0:12, 0.20 ,10/10/2022
+07:30,07:49,MECH,MECH,MT,,Twin Channel ,too much bars snack bars in CB hit inside Twin Channel  - one bar stuck in Twin Channel  1A,0:19, 0.32 ,10/10/2022
+08:36,09:20,MECH,MECH,MT,,Twin Channel ,over shoot line A1 (73m) - Bar stuck inside the Twin Channel ,0:44, 0.73 ,11/10/2022
+05:30,05:39,E&A,E&A,MT,Mill Area,Fast Finishing Block ,no rolling - problem in proximity of accumulator line 02,0:09, 0.15 ,11/10/2022
+,,MECH,MECH,MT,Furnace Area,Furnace,Accumulated delays of charging table transfer problem,0:05, 0.08 ,12/10/2022
+,,E&A,E&A,MT,Furnace Area,Furnace,Accumulated delays of ph of roller tabble section 02 not sensing good,0:04, 0.07 ,12/10/2022
+12:38,12:58,E&A,E&A,MT,Finishing Area,DCVR,One billet auto chop due to DCVR tripped - DCVR line 1 tripped,0:20, 0.33 ,13/10/2022
+14:01,14:13,E&A,E&A,MT,Finishing Area,DCVR,Half billet auto chopped - dcvr diverter line 1 position encoder fault,0:12, 0.20 ,13/10/2022
+17:45,17:55,E&A,E&A,MT,Finishing Area,DCVR,one billet auto chop - DCVR diverter line 1 position encoder fault,0:10, 0.17 ,13/10/2022
+19:13,19:35,E&A,E&A,MT,Finishing Area,DCVR,one billet auto chop - DCVR line 1 tripped,0:22, 0.37 ,13/10/2022
+20:23,20:29,E&A,E&A,MT,Finishing Area,Tying Machine,ccl area full - Tying Machine not working properly,0:06, 0.10 ,13/10/2022
+11:37,12:02,E&A,E&A,MT,,Shear 01,no rolling as shear one probleme - shear one not cut the tail,0:25, 0.42 ,14/10/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine,accumulative delays ccl erea full - Tying Machine not working properly,0:28, 0.47 ,14/10/2022
+00:57,01:15,E&A,E&A,MT,Finishing Area,Tracking Failure,last bar of 60 meter over shoot in line 2 - Tracking failure,0:18, 0.30 ,15/10/2022
+08:53,09:30,E&A,E&A,MT,Finishing Area,Extraction Trolley,"ccl area full,trolley problem switch fault - call ele -team to check the problem",0:37, 0.62 ,07/11/2022
+10:39,10:55,E&A,E&A,MT,Finishing Area,Tail Breaker,1.5 billets autochopped - tail Braker 2 b got trip,0:16, 0.27 ,08/11/2022
+16:40,18:25,MECH,MECH,MT,Finishing Area,Tail Breaker,2 time over shoot line 01 - speed reference of tb line 01 desable :cylinder TB 1b closed not working,1:45, 1.75 ,08/11/2022
+00:17,00:37,MECH,MECH,MT,Furnace Area,Furnace,request from mechanichal team to stop rolling - oil leack in furnace kick off,0:20, 0.33 ,08/11/2022
+01:00,01:14,E&A,E&A,MT,Finishing Area,Tail Breaker,"one billet chopped and one rejected - tail breacker 2B drive tripped , tripprd 3 times during the shift",0:14, 0.23 ,08/11/2022
+05:24,08:00,MECH,MECH,MT,Mill Area,Stand 11,noise from stand 11 - cardan get hot and damaged,2:36, 2.60 ,08/11/2022
+10:00,14:35,MECH,MECH,MT,Mill Area,Stand 11,no rolling: mechanichal team make a change for bearing cardan of sd#11 - bearing cardan was damaged,4:35, 4.58 ,09/11/2022
+15:12,15:24,E&A,E&A,MT,,DC Link E20-MCS,stop roling - dc link of E20-MCS01 got trip,0:12, 0.20 ,09/11/2022
+15:47,15:49,E&A,E&A,MT,Finishing Area,DCVR,half billet chopped in CVR line 02 - DCVR stay in chopping position whitout alarm,0:02, 0.03 ,09/11/2022
+,,E&A,E&A,MT,Mill Area,Stand 14,extra time took during stand 14 changing - spindle pin not desconecting from LSC,0:20, 0.33 ,09/11/2022
+05:27,05:36,E&A,E&A,MT,,Photo Cell,CCL area full - PH 5 keep sensening without material exist,0:09, 0.15 ,09/11/2022
+16:44,16:52,E&A,E&A,MT,Mill Area,Stand 03,mill not ready - Stand 03 spindle support unlocked,0:08, 0.13 ,10/11/2022
+,,E&A,E&A,MT,Finishing Area,Tying Machine ,"Accumulated delays for ccl area full due to tying M 01,02 problem - Tying M03 not working due to prx s4 problem TM 2
+not working due to prx s 2 problem",0:22, 0.37 ,11/11/2022
+12:30,12:35,E&A,E&A,MT,Finishing Area,Tying Machine ,ccl area full - taying machine out of service,0:05, 0.08 ,12/11/2022
+14:52,15:07,MECH,MECH,MT,,Transfert Table,CCL area full - transfer chain of table stopped,0:15, 0.25 ,12/11/2022
+11:08,11:35,MECH,MECH,MT,,CVR 02,cobble in looper of CVR 2 - movable roller of looper stuck,0:27, 0.45 ,13/11/2022
+,,E&A,E&A,MT,Mill Area,Stand 14,1 billet auto chopped - continuty alarm for stand 14,0:02, 0.03 ,13/11/2022
+10:07,10:20,E&A,E&A,MT,Mill Area,Hot Metal Detector s,"2 billet auto chopped , stand 14 downstream Hot Metal Detector  continuity alarm - Hot Metal Detector  14 flickered",0:13, 0.22 ,14/11/2022
+16:00,16:22,E&A,E&A,MT,Mill Area,Looper,"stop rolling ,finale producte problem, checking the mill ,and Fast Finishing Block ,cvr - lopper of cvr1 and 2 going down and caused finale producte without L-rib",0:22, 0.37 ,14/11/2022
+07:31,07:46,E&A,E&A,MT,Finishing Area,HMI,One billet auto chopped due to cobble detected at exit cooling bed - the last bar of 73m over shoot in line 1,0:15, 0.25 ,14/11/2022
+,,E&A,E&A,MT,Finishing Area,HMI,"04 autochopp ,cobbles detected in CB, and bars stucked in Twin Channel -cb - last bar going over shoot ,Tb 1A not working properly , the final bar length on HMI wasn’t equal to the real one",1:44, 1.73 ,15/11/2022
+17:10,17:26,E&A,E&A,MT,Finishing Area,Tail Breaker,"one billet auto chopped, cobble detected in cb - TB 2b got trip",0:16, 0.27 ,15/11/2022
+21:28,21:39,E&A,E&A,MT,Finishing Area,Tail Breaker,1.4 billet auto chopped - Tail braker 2b tripped,0:11, 0.18 ,15/11/2022
+00:21,00:27,E&A,E&A,MT,Mill Area,Hot Metal Detector s,0.8 billet auto chopped - Alarm:Stand 15 downstream Hot Metal Detector  continuity alarm,0:06, 0.10 ,15/11/2022
+04:01,04:07,E&A,E&A,MT,Mill Area,Hot Metal Detector s,0.8 billet auto chopped - Alarm:Stand 15 downstream Hot Metal Detector  continuity alarm,0:06, 0.10 ,15/11/2022
+,,E&A,E&A,MT,Mill Area,Hot Metal Detector s,two billets autchopped - contunuity alarm in Hot Metal Detector  of stand 15,0:10, 0.17 ,16/11/2022
+,,E&A,E&A,MT,Finishing Area,HMI,cumulative delays of two auto chopping - no alarm apears in that time on the system,0:10, 0.17 ,17/11/2022
+08:18,08:26,E&A,E&A,MT,Mill Area,Hot Metal Detector s,"One billet auto chopped - Stand 16 downstream line 2 Hot Metal Detector  continuity alarm due to no Cooling water of Hot Metal Detector  21,22 fixed cooling water of bypass before Hot Metal Detector 21,22",0:08, 0.13 ,18/11/2022
+20:30,20:52,MECH,MECH,MT,Finishing Area,Transfert Table,ccl area full - chaine of transfert table was damaged,0:22, 0.37 ,18/11/2022
+11:12,14:30,E&A,E&A,MT,Furnace Area,Furnace,Furnace not ready due to walking beam command timeout - plate for fixing temposoncs cylinder was bended of walking beam prancipal cylindre,3:18, 3.30 ,19/11/2022
+18:20,18:28,E&A,E&A,MT,Finishing Area,Photo Cell,Ccl area full - one bundle going smaller with one layer,0:08, 0.13 ,19/11/2022
+21:07,21:15,MECH,MECH,MT,Finishing Area,Tying Machine ,ccl area full - oil leakage from TM 01,0:08, 0.13 ,19/11/2022
+02:31,02:59,E&A,E&A,MT,Furnace Area,Furnace,"mill not reday ,one billet rejected .. - reject table roller stopped emerg- reject table lever not in low position",0:28, 0.47 ,19/11/2022
+,,E&A,E&A,MT,Furnace,Furnace,accumulaive delay rolling manualy - auto billet discharging not working,1:13, 1.22 ,19/11/2022
+,,E&A,E&A,MT,Furnace,Furnace,cumulative delay of furnace auto discharging not working - discharge manualy,0:20, 0.33 ,20/11/2022
+16:58,17:04,E&A,E&A,MT,Mill Area,Hot Metal Detector s,one billets autochopped - continuity alarm from stand 14 Hot Metal Detector ,0:06, 0.10 ,20/11/2022
+00:02,00:04,E&A,E&A,MT,Mill Area,Hot Metal Detector s,1 billet auto chopped - stand 14 Hot Metal Detector  continuty alarm,0:02, 0.03 ,20/11/2022
+06:57,07:03,E&A,E&A,MT,Furnace Area,Furnace,1 billet rejected - furnace discharging roller got trip,0:06, 0.10 ,20/11/2022
+08:00,08:11,E&A,E&A,MT,Furnace Area,Furnace,"Mill not ready, exit of furnace area stop - E20MC DC link trip",0:11, 0.18 ,21/11/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine ,accumulated delay - tying machine 2 problem and small delays of bar alignment problem on roller table,0:22, 0.37 ,21/11/2022
+07:08,07:15,E&A,E&A,MT,Mill Area,Hot Metal Detector s,2 billet autochopped - Stand 15 Hot Metal Detector  continuty alarm,0:07, 0.12 ,21/11/2022
+19:38,19:56,E&A,E&A,MT,Finishing Area,Cold Shear,ccl area full - cold shear problem :motor start not disabled since last stop,0:18, 0.30 ,22/11/2022
+03:51,03:57,E&A,E&A,MT,Mill Area,Hot Metal Detector s,one billet auto chopped due cobble detected at entry CB - The last bar descharged near than Hot Metal Detector  29,0:06, 0.10 ,22/11/2022
+03:58,04:46,E&A,E&A,MT,Finishing Area,Twin Channel ,cobble detected from Fast Finishing Block  L2 to Twin Channel  2b - the last bar of billet hit in entry cooling bed due to when reached to Twin Channel  was in open position,0:50, 0.83 ,22/11/2022
+,,MECH,MECH,MT,Finishing Area,Cold Shear,accumulated delays for ccl area full - cold shear blade cut ptroperly,0:30, 0.50 ,22/11/2022
+13:32,13:50,E&A,E&A,MT,Finishing Area,Twin Channel ,one billet auto chopped - cobble detected in Twin Channel  2a,0:18, 0.30 ,23/11/2022
+02:10,02:17,E&A,E&A,MT,Mill Area,Hot Metal Detector s,One billet auto chopped due to under shoot in line 2A - The last bar discharged near than Hot Metal Detector  28,0:07, 0.12 ,23/11/2022
+04:23,04:35,E&A,E&A,MT,Finishing Area,HMI,"1 billet auto chopped , overshoot line 02 - bar of 29m overshoot",0:12, 0.20 ,24/11/2022
+,,E&A,E&A,MT,Finishing Area,HMI,accumulated delay for slow rolling - optimization in line 2 not ok,0:05, 0.08 ,24/11/2022
+21:12,21:21,MECH,MECH,MT,Mill Area,Snap Shear,Fast Finishing Block  1 not redy to roll - snap shear not opned,0:09, 0.15 ,24/11/2022
+06:47,07:24,E&A,E&A,MT,,Pinch Roll 05,"cobble from dividing shear to Fast Finishing Block  2 - flat head from Pince roll 5 , tracking failure",0:37, 0.62 ,24/11/2022
+07:32,08:00,E&A,E&A,MT,,Pinch Roll 05,"cobble from cut to length to Fast Finishing Block s and in water boxes - flat head from Pince roll 5 , tracking failure",0:28, 0.47 ,24/11/2022
+,,E&A,E&A,MT,Finishing Area,HMI,auto chopped .under shoot line 2,0:04, 0.07 ,25/11/2022
+20:38,20:44,E&A,E&A,MT,Mill Area,Hot Metal Detector ,Under shoot line 1 - last bar discharged near of Hot Metal Detector  in CB entry,0:06, 0.10 ,25/11/2022
+17:44,17:58,E&A,E&A,MT,Mill Area,Hot Metal Detector ,ane billet auta chapped due ta under shaat in line 2A - the last bar discharged near than Hot Metal Detector  28,0:14, 0.23 ,26/11/2022
+01:51,02:23,MECH,MECH,MT,Finishing Area,Tying Machine,ccl area full - ail leakage fram TM 3,0:32, 0.53 ,26/11/2022
+07:50,08:00,E&A,E&A,MT,,Hot Metal Detector ,ane billet auta chapped due ta under shaat in line 2A - the last bar discharged near than Hot Metal Detector  28,0:10, 0.17 ,26/11/2022
+00:48,02:02,MECH,MECH,MT,Finishing Area,Twin Channel ,cobble from Fast Finishing Block  1 to Twin Channel  1a - front end of bar got hit in Twin Channel  due to flap of Twin Channel 1a damaged,1:14, 1.23 ,27/11/2022
+,,E&A,E&A,MT,Mill Area,Fast Finishing Block ,accumulative delay Fast Finishing Block  1 air oil unit line 2 pumping cycle failed,0:17, 0.28 ,27/11/2022
+,,E&A,E&A,MT,Mill Area,Stand 12,stand 12 not moving down - trolly in lost position,0:07, 0.12 ,28/11/2022
+11:17,11:41,E&A,E&A,MT,,Grease Unit,stopping alarm in mill - pumps of hydraulic and greasing units tripped,0:24, 0.40 ,29/11/2022
+04:17,04:25,E&A,E&A,MT,Mill Area,Fast Finishing Block ,Fast Finishing Block  line 01 stopped :half billet autochpped - Fast Finishing Block  line 01 rings cooling water pressure fault : Fast Finishing Block  booster pumps drop,0:08, 0.13 ,29/11/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine ,cumulative delay of CCL area full - Tying Machine  1 and 2 not wrok properly,0:05, 0.08 ,29/11/2022
+,,E&A,E&A,MT,Finishing Area,Cold Shear,cumulative delay of CCL area full - cold shear lubrication unit not Out of servise,0:03, 0.05 ,29/11/2022
+13:43,14:30,MECH,MECH,MT,Finishing Area,Twin Channel ,"cobble detected in Twin Channel  2b ,front end of bar stocked in Twin Channel  2B ( in the last billet ) - front end of bar stocked in Twin Channel  2B (in the last billet)",0:45, 0.75 ,30/11/2022
+23:02,23:33,E&A,E&A,MT,Furnace Area,DC Link E20-MCS,one billet rejected due to mill not ready - E20MCS dc link got triped,0:31, 0.52 ,30/11/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine ,Accumulated delays for ccl area full - Tying Machine  3 not working properly,0:08, 0.13 ,01/12/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine ,Accumulated delays for ccl area full - Tying Machine  2 not working properly due to bearing of its encodor damaged,0:07, 0.12 ,01/12/2022
+11:40,12:20,MECH,MECH,MT,Finishing Area,Vertical Transfer,ccl area full - chain of section 04 broken,0:40, 0.67 ,02/12/2022
+,,MECH,MECH,MT,Finishing Area,Vertical Transfer,Accumulated delays for ccl area full - bars coming out from vertical transfer caused by the removed chain,0:20, 0.33 ,02/12/2022
+00:44,00:48,E&A,E&A,MT,Furnace Area,Furnace,half billet manualy chopped - two close billets,0:04, 0.07 ,02/12/2022
+15:45,16:33,E&A,E&A,MT,Finishing Area,Photo cells,"the bundle of 09 m going without stop in weighing system , ph of storage area sensing ( storage area full)",0:48, 0.80 ,05/12/2022
+17:27,04:23,E&A,E&A,MT,,General Power Trip,Cobble in all the mill - general Power tripped,5:28, 11.93 ,05/12/2022
+05:45,05:48,MECH,MECH,MT,Mill Area,Fast Finishing Block ,"one billet auto chopped - Fast Finishing Block  1 going fault ,water pressure problem",0:03, 0.05 ,05/12/2022
+08:00,08:17,E&A,E&A,MT,Finishing Area,Photo cells,CCL area full - PH 5 in finishing area keep sensing,0:17, 0.28 ,07/12/2022
+22:11,22:21,MECH,MECH,MT,Furnace Area,Furnace,"stop rolling , oil leackeg in pip of kick off - oil pipe in kick off",0:10, 0.17 ,07/12/2022
+22:21,22:26,E&A,E&A,MT,Finishing Area,Cold Shear,no rolling ccl are full - cold shear MCC fault,0:05, 0.08 ,07/12/2022
+20:57,22:25,E&A,E&A,MT,,DRM 01,Cobble from Stand1 to Stand 09 - DRM 01 tripped,1:28, 1.47 ,08/12/2022
+04:02,04:09,E&A,E&A,MT,Finishing Area,Photo cells,CCL area full - PH5 exit cold shear continue sinsing,0:07, 0.12 ,08/12/2022
+06:05,06:13,E&A,E&A,MT,Finishing Area,Optimazation Problem,"1,5 billet auto chopped due to the last bar of 102m over shoot in line 2 - Optimizition failed",0:08, 0.13 ,08/12/2022
+08:52,09:18,E&A,E&A,MT,Finishing Area,Photo cells,CCL area full - PH 05 Problem,0:26, 0.43 ,09/12/2022
+19:06,19:17,E&A,E&A,MT,Mill Area,Hot Metal Detector s,one billet auto chopped - downstream Hot Metal Detector  14 continuity alarm,0:07, 0.12 ,09/12/2022
+19:29,19:36,E&A,E&A,MT,Mill Area,Hot Metal Detector s,one billet auto chopped - downstream Hot Metal Detector  14 continuity alarm,0:10, 0.17 ,09/12/2022
+01:24,01:31,E&A,E&A,MT,Mill Area,Hot Metal Detector s,One billet auto chopped - Stand14downstream Hot Metal Detector  continuity alarm,0:07, 0.12 ,09/12/2022
+08:41,08:49,E&A,E&A,MT,Mill Area,Stand 03,stop rolling - stand 03 spindel support unnlocked,0:08, 0.13 ,10/12/2022
+14:52,15:04,E&A,E&A,MT,Finishing Area,Optimazation Problem,stop rolling ; one bar of 77 m came out from cooling bed - optimization probelm,0:12, 0.20 ,10/12/2022
+15:15,15:27,E&A,E&A,MT,Finishing Area,Optimazation Problem,one billet auto chopped ; over shoot line 01 - optimization probelm,0:12, 0.20 ,10/12/2022
+15:50,16:37,E&A,E&A,MT,Mill Area,Hot Metal Detector s,stop rolling - elecrtical working on the problem of Hot Metal Detector  14 continuity alarm,0:47, 0.78 ,10/12/2022
+19:51,20:00,E&A,E&A,MT,Furnace Area,Furnace,stop rolling - walking beams stopped,0:09, 0.15 ,10/12/2022
+,,E&A,E&A,MT,Finishing Area,Tying Machine ,accumulative delay of ccl full - Tying Machine  stopped in down position,0:10, 0.17 ,10/12/2022
+,,E&A,E&A,MT,Mill Area,Hot Metal Detector s,accumulative delay of 9 billets auto chopped - downstream Hot Metal Detector  14 continuity alarm,0:38, 0.63 ,10/12/2022
+20:00,21:50,E&A,E&A,MT,Furnace Area,Furnace,furnace wallking beams lost position - transducer not working,1:50, 1.83 ,10/12/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine ,cumulative delays of tying maching 3 out of service - TM3 turn off some times,0:15, 0.25 ,10/12/2022
+09:23,09:32,E&A,E&A,MT,Finishing Area,Optimazation Problem,no rolling - over shoot line 01,0:09, 0.15 ,11/12/2022
+,,E&A,E&A,MT,Finishing Area,Tying Machine ,accumulative delay of ccl full - Tying Machine  out of service,0:14, 0.23 ,11/12/2022
+20:07,20:37,E&A,E&A,MT,Finishing Area,Photo cells,Bundling Area ccl area full - ph 0 and ph 5 problem,0:24, 0.40 ,13/12/2022
+09:58,10:01,MECH,MECH,MT,Mill Area,Air Oil Unit,Fast Finishing Block  1 delay alarm - air oil unit stopped,0:03, 0.05 ,14/12/2022
+16:16,16:28,E&A,E&A,MT,Finishing Area,Twin Channel ,cobble detected in CVAH 1 - loop in the middle of the billet,0:12, 0.20 ,14/12/2022
+19:43,19:57,E&A,E&A,MT,Finishing Area,Twin Channel ,overshoot in both lines - cobble detected in CVAH 1,0:14, 0.23 ,14/12/2022
+20:02,21:00,E&A,E&A,MT,Finishing Area,Twin Channel ,cobble detected in CVAH 1 and BGV 01 - many bars stucked in Twin Channel  1B and caused cobble from Twin Channel 1B to Cut to lenght and BGV line 1,0:58, 0.97 ,14/12/2022
+22:15,22:20,E&A,E&A,MT,Mill Area,Hot Metal Detector s,Hot Metal Detector  24 line 01 not sensing,0:05, 0.08 ,14/12/2022
+23:07,23:21,E&A,E&A,MT,Finishing Area,Optimazation Problem,under shoot in line 1 - short bar descharged near Hot Metal Detector 24 m,0:14, 0.23 ,14/12/2022
+15:25,15:38,E&A,E&A,MT,Finishing Area,Optimazation Problem,last bar of 24 m undershoot in line 2 - optimization failure,0:13, 0.22 ,15/12/2022
+07:46,08:00,MECH,MECH,MT,Mill Area,Looper ,Cobble After stand 14 - front end of material got hit in exit supporting roller of looper 14,0:14, 0.23 ,15/12/2022
+08:26,09:08,MECH,MECH,MT,Mill Area,Looper ,change roller of looper Stand 14,0:42, 0.70 ,16/12/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine ,"Accumulated delays for ccl area full - Tying machine 2 not working properly due to its guide roller
+c22 broken from its base",0:13, 0.22 ,16/12/2022
+06:23,06:33,E&A,E&A,MT,Finishing Area,Optimazation Problem,one billet auto chopped due to cobble detected at entry CB line 2B (under shoot),0:10, 0.17 ,16/12/2022
+07:25,07:41,E&A,E&A,MT,Finishing Area,Optimazation Problem,one billet auto chopped due to cobble detected at entry CB line 1a,0:16, 0.27 ,16/12/2022
+07:56,08:00,E&A,E&A,MT,Finishing Area,Optimazation Problem,one billet auto chopped due to cobble detected at entry CB line 2B (under shoot),0:04, 0.07 ,16/12/2022
+23:01,23:04,E&A,E&A,MT,Finishing Area,Optimazation Problem,one billet auto chopped due to cobble detected at CB entry line 1A,0:03, 0.05 ,17/12/2022
+23:39,23:53,E&A,E&A,MT,Finishing Area,Optimazation Problem,"one billet auto chopped due to the last bar of 36,7m under shoot",0:14, 0.23 ,17/12/2022
+14:41,15:26,MECH,MECH,MT,Mill Exit Area,Booster Pumps,Stop Rolling - discharge of booster pumps of QTB line 01 was Open While Rolling without Alarms ; RE value For Line 01 deacreased,0:45, 0.75 ,18/12/2022
+17:10,17:22,MECH,MECH,MT,Mill Exit Area,Booster Pumps,Stop Rolling - decrease in Re value of Line 01 without any change in QTB parameters,0:12, 0.20 ,18/12/2022
+18:43,19:01,E&A,E&A,MT,Finishing Area,Photo cells,Ccl area full - PH 05 of vertical transfer continue sensing and vertical moter section 02 trip,0:19, 0.32 ,20/12/2022
+04:23,04:41,E&A,E&A,MT,Finishing Area,Optimazation Problem,"one billet auto chopped ,under shoot line A1 - last bar discharged near Hot Metal Detector  26",0:18, 0.30 ,20/12/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine ,"accumulative delay ccl full - TM 01 , 2 not working properly",0:16, 0.27 ,20/12/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine ,Accumulated delays for ccl area full - Twister of tying M01 browken,0:14, 0.23 ,21/12/2022
+14:34,14:57,E&A,E&A,MT,Furnace Area,DC-Link,Furnace shutdown - Furnace DC-link tripped,0:23, 0.38 ,21/12/2022
+,,E&A,E&A,MT,Finishing Area,Tail Braker,accumulative 02 billet auto chopped - TB 2b was trip,0:33, 0.55 ,21/12/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine ,cumulative delay of CCL Area almost full - a bar come out from Taying Machine 02 [ a hole created in the wall ],0:10, 0.17 ,22/12/2022
+,,MECH,MECH,MT,Finishing Area,Tying Machine ,cumulative delay of ccl area full - a bundle passed from Tying Machine  without any tie,0:19, 0.32 ,22/12/2022
+,,E&A,E&A,MT,Mill Area,Hot Metal Detector s Or Tracking,cumulative delay of interbillet not stable,0:20, 0.33 ,22/12/2022
+,,E&A,E&A,MT,Finishing Area,Photo cells,cumulative delay of CCL arae full - PH0 keep sensing,0:10, 0.17 ,23/12/2022
+17:16,17:34,E&A,E&A,MT,Mill Area,Hot Metal Detector s Or Tracking,cobble after stand 10 - 2 billet close with each other,0:17, 0.28 ,24/12/2022
+,,E&A,E&A,MT,Finishing Area,Tying Machine ,accumulative delay ccl area full - TM 1not working properly,0:07, 0.12 ,25/12/2022
+22:49,23:05,E&A,E&A,MT,Finishing Area,Optimazation Problem,One billet auto chopped due to the last bar of 25m under shoot in line 2A - Optimization failer,0:16, 0.27 ,25/12/2022
+17:30,18:00,MECH,MECH,MT,,Cut to Length ,Extended Maintenance day activities,0:30, 0.50 ,26/12/2022
+00:57,01:34,MECH,MECH,MT,Finishing Area,Twin Channel ,cobble in tail Braker and Twin Channel  1A - bar head hit in Twin Channel ,0:37, 0.62 ,26/12/2022
+01:34,01:46,E&A,E&A,MT,Finishing Area,Tail Braker,tail Braker 2A fault - motor fan fault,0:12, 0.20 ,26/12/2022
+08:07,08:25,MECH,MECH,MT,Finishing Area,Wheel Stopper,Ccl area full - Stopper 2 after cold shear in down position,0:18, 0.30 ,29/12/2022
+,,MECH,MECH,MT,Finishing Area,Wheel Stopper,Accumulated delays for Ccl area full - Wheel stopper not working properlly,0:12, 0.20 ,29/12/2022
+12:44,12:52,MECH,MECH,MT,Finishing Area,Twin Channel ,Stop rolling - Bar stucked at Twin Channel  2b,0:08, 0.13 ,29/12/2022
+16:39,16:47,MECH,MECH,MT,Finishing Area,Twin Channel ,Stop rolling - Bar stucked at Twin Channel  2b,0:08, 0.13 ,29/12/2022
+05:55,06:33,E&A,E&A,MT,Finishing Area,Cold Shear,ccl area full - holder of cold shear in down position,0:38, 0.63 ,29/12/2022
+09:21,09:30,E&A,E&A,MT,Finishing Area,Optimazation Problem,labt bar of 40 m discharged under cooling bed Hot Metal Detector  line 1 - optimization failure,0:09, 0.15 ,30/12/2022
+12:40,12:55,E&A,E&A,MT,Finishing Area,Diverter Drive,chopping shear diverter of CVR 1 stopped - drive tripped,0:15, 0.25 ,30/12/2022
+13:14,14:28,E&A,E&A,MT,,DRM 01,cobble from stand 1 to shear one - DRM 01 tripped,1:14, 1.23 ,30/12/2022
+06:54,05:54,E&A,E&A,MT,Finishing Area,Vertical Transfer,two layer stuck in vertical transfer - syncronization between sections not the same,1:00, 1.00 ,30/12/2022
+00:35,00:48,MECH,MECH,MT,Finishing Area,Twin Channel ,undershoot line 01 in the middle of billet - bar front stucked in Twin Channel  1B,0:13, 0.22 ,30/12/2022
+13:06,13:34,MECH,MECH,MT,Mill Area,Diverter CVR 01,cobble from chopping shear diverter to stand 16 - diverter cvr 1 roller base damaged,0:28, 0.47 ,31/12/2022
+18:02,18:18,E&A,E&A,MT,Mill Area,Diverter Drive,chopping shear diverter drive tripped,0:16, 0.27 ,31/12/2022
+18:58,19:11,E&A,E&A,MT,Mill Area,Diverter Drive,chopping shear diverter drive tripped,0:13, 0.22 ,31/12/2022
+19:27,19:40,E&A,E&A,MT,Mill Area,Diverter Drive,electrical team checked chopping shear dirverter,0:13, 0.22 ,31/12/2022
