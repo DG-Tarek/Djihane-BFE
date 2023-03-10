@@ -3,9 +3,9 @@ import csv
 PATH = "data/AQS2022.csv"
 RESULT_PATH = "result/part_of_day.csv"
 MORNING = [str(i) for i in range(8, 13)]
-AFTERNOON = [str(i) for i in range(12, 19)]
-EVENING = [str(i) for i in range(18, 0)]
-NIGHT = [str(i) for i in range(0, 9)]
+AFTERNOON = [str(i) for i in range(12, 18)]
+EVENING = [str(i) for i in range(18, 23)]
+NIGHT = [str(i) for i in range(22, 24)] + [str(i) for i in range(0, 9)]
 
 
 def get_part_of_day(time):
